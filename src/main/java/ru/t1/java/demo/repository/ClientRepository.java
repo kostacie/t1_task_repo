@@ -6,7 +6,6 @@ import org.springframework.transaction.annotation.Transactional;
 import ru.t1.java.demo.aop.Transaction;
 import ru.t1.java.demo.model.Client;
 
-import java.util.List;
 import java.util.Optional;
 
 import static org.springframework.transaction.annotation.Propagation.NOT_SUPPORTED;

@@ -9,12 +9,9 @@ import org.aspectj.lang.annotation.Pointcut;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.PlatformTransactionManager;
 import org.springframework.transaction.TransactionDefinition;
-import org.springframework.transaction.TransactionStatus;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.transaction.support.TransactionTemplate;
 import ru.t1.java.demo.model.Client;
-
-import java.sql.SQLException;
 
 import static org.springframework.transaction.annotation.Propagation.NOT_SUPPORTED;
 

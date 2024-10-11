@@ -21,4 +21,6 @@ public class Transaction extends AbstractPersistable<Long> {
     @Column(name = "client_id")
     private Long clientId;
 
+    @Column(name = "account_id")
+    private Long accountId;
 }

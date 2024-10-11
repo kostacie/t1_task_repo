@@ -12,12 +12,12 @@ import ru.t1.java.demo.model.TimeLimitExceedLog;
 import ru.t1.java.demo.service.TimeLimitExceedLogService;
 
 
-//3.2 Аспект, логирующий сообщения в TimeLimitExceedLog, если аннотированный аспектом метод работает дольше,
-// чем установленное значение в конфигурационном параметре
 @Slf4j
 @Aspect
 @Component
 @RequiredArgsConstructor
+/* 3.2 Аспект, логирующий сообщения в TimeLimitExceedLog, если аннотированный аспектом метод работает дольше,
+ чем установленное значение в конфигурационном параметре */
 public class TimeLimitExceedLogAspect {
     @Autowired
     private TimeLimitExceedLogService timeLimitExceedLogService;
@@ -37,7 +37,7 @@ public class TimeLimitExceedLogAspect {
 
             if (executionTime > timeLimitExceed) {
                 TimeLimitExceedLog exceedLog = TimeLimitExceedLog.builder()
-                        .methodSignature(joinPoint.getSignature().toShortString())
+                        .methodSignature(joinPoint.getSignature().toString())
                         .executionTime(executionTime).build();
                 log.info("Execution time for {}: {} ms", joinPoint.getSignature().toString(), executionTime);
                 timeLimitExceedLogService.save(exceedLog);
