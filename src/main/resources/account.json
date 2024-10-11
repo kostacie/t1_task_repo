@@ -1,0 +1,5002 @@
+[
+  {
+    "client_id": 1,
+    "account_type": "CREDIT",
+    "balance": 11133.8629
+  },
+  {
+    "client_id": 2,
+    "account_type": "CREDIT",
+    "balance": 16412.3047
+  },
+  {
+    "client_id": 3,
+    "account_type": "CREDIT",
+    "balance": 44866.8899
+  },
+  {
+    "client_id": 4,
+    "account_type": "CREDIT",
+    "balance": 44966.042
+  },
+  {
+    "client_id": 5,
+    "account_type": "CREDIT",
+    "balance": 30138.7782
+  },
+  {
+    "client_id": 6,
+    "account_type": "CREDIT",
+    "balance": 47935.9336
+  },
+  {
+    "client_id": 7,
+    "account_type": "CREDIT",
+    "balance": 37320.4987
+  },
+  {
+    "client_id": 8,
+    "account_type": "CREDIT",
+    "balance": 34004.1199
+  },
+  {
+    "client_id": 9,
+    "account_type": "CREDIT",
+    "balance": 49179.8026
+  },
+  {
+    "client_id": 10,
+    "account_type": "CREDIT",
+    "balance": 40463.3017
+  },
+  {
+    "client_id": 11,
+    "account_type": "CREDIT",
+    "balance": 32683.3025
+  },
+  {
+    "client_id": 12,
+    "account_type": "CREDIT",
+    "balance": 10210.7539
+  },
+  {
+    "client_id": 13,
+    "account_type": "CREDIT",
+    "balance": 17251.1113
+  },
+  {
+    "client_id": 14,
+    "account_type": "CREDIT",
+    "balance": 38398.661
+  },
+  {
+    "client_id": 15,
+    "account_type": "CREDIT",
+    "balance": 34988.8581
+  },
+  {
+    "client_id": 16,
+    "account_type": "CREDIT",
+    "balance": 44328.7509
+  },
+  {
+    "client_id": 17,
+    "account_type": "CREDIT",
+    "balance": 33170.6594
+  },
+  {
+    "client_id": 18,
+    "account_type": "CREDIT",
+    "balance": 39407.5894
+  },
+  {
+    "client_id": 19,
+    "account_type": "CREDIT",
+    "balance": 7454.4856
+  },
+  {
+    "client_id": 20,
+    "account_type": "CREDIT",
+    "balance": 2584.3879
+  },
+  {
+    "client_id": 21,
+    "account_type": "CREDIT",
+    "balance": 31413.2749
+  },
+  {
+    "client_id": 22,
+    "account_type": "CREDIT",
+    "balance": 7789.4926
+  },
+  {
+    "client_id": 23,
+    "account_type": "CREDIT",
+    "balance": 36306.479
+  },
+  {
+    "client_id": 24,
+    "account_type": "CREDIT",
+    "balance": 45083.6943
+  },
+  {
+    "client_id": 25,
+    "account_type": "CREDIT",
+    "balance": 19682.6867
+  },
+  {
+    "client_id": 26,
+    "account_type": "CREDIT",
+    "balance": 3540.0401
+  },
+  {
+    "client_id": 27,
+    "account_type": "CREDIT",
+    "balance": 12150.1571
+  },
+  {
+    "client_id": 28,
+    "account_type": "CREDIT",
+    "balance": 6686.0499
+  },
+  {
+    "client_id": 29,
+    "account_type": "CREDIT",
+    "balance": 15605.222
+  },
+  {
+    "client_id": 30,
+    "account_type": "CREDIT",
+    "balance": 18223.6126
+  },
+  {
+    "client_id": 31,
+    "account_type": "CREDIT",
+    "balance": 23749.1869
+  },
+  {
+    "client_id": 32,
+    "account_type": "CREDIT",
+    "balance": 46987.3864
+  },
+  {
+    "client_id": 33,
+    "account_type": "CREDIT",
+    "balance": 12179.4986
+  },
+  {
+    "client_id": 34,
+    "account_type": "CREDIT",
+    "balance": 2754.2679
+  },
+  {
+    "client_id": 35,
+    "account_type": "CREDIT",
+    "balance": 12903.0526
+  },
+  {
+    "client_id": 36,
+    "account_type": "CREDIT",
+    "balance": 11478.7972
+  },
+  {
+    "client_id": 37,
+    "account_type": "CREDIT",
+    "balance": 24134.3371
+  },
+  {
+    "client_id": 38,
+    "account_type": "CREDIT",
+    "balance": 24293.5155
+  },
+  {
+    "client_id": 39,
+    "account_type": "CREDIT",
+    "balance": 9246.2592
+  },
+  {
+    "client_id": 40,
+    "account_type": "CREDIT",
+    "balance": 36485.5476
+  },
+  {
+    "client_id": 41,
+    "account_type": "CREDIT",
+    "balance": 40947.7429
+  },
+  {
+    "client_id": 42,
+    "account_type": "CREDIT",
+    "balance": 34937.4302
+  },
+  {
+    "client_id": 43,
+    "account_type": "CREDIT",
+    "balance": 43199.6956
+  },
+  {
+    "client_id": 44,
+    "account_type": "CREDIT",
+    "balance": 2549.735
+  },
+  {
+    "client_id": 45,
+    "account_type": "CREDIT",
+    "balance": 27153.4738
+  },
+  {
+    "client_id": 46,
+    "account_type": "CREDIT",
+    "balance": 16165.8736
+  },
+  {
+    "client_id": 47,
+    "account_type": "CREDIT",
+    "balance": 22611.588
+  },
+  {
+    "client_id": 48,
+    "account_type": "CREDIT",
+    "balance": 27827.9406
+  },
+  {
+    "client_id": 49,
+    "account_type": "CREDIT",
+    "balance": 26581.2276
+  },
+  {
+    "client_id": 50,
+    "account_type": "CREDIT",
+    "balance": 15708.6384
+  },
+  {
+    "client_id": 51,
+    "account_type": "CREDIT",
+    "balance": 30693.5792
+  },
+  {
+    "client_id": 52,
+    "account_type": "CREDIT",
+    "balance": 23189.6796
+  },
+  {
+    "client_id": 53,
+    "account_type": "CREDIT",
+    "balance": 42900.7872
+  },
+  {
+    "client_id": 54,
+    "account_type": "CREDIT",
+    "balance": 43121.8023
+  },
+  {
+    "client_id": 55,
+    "account_type": "CREDIT",
+    "balance": 25121.8406
+  },
+  {
+    "client_id": 56,
+    "account_type": "CREDIT",
+    "balance": 30514.2051
+  },
+  {
+    "client_id": 57,
+    "account_type": "CREDIT",
+    "balance": 44175.5453
+  },
+  {
+    "client_id": 58,
+    "account_type": "CREDIT",
+    "balance": 36092.2983
+  },
+  {
+    "client_id": 59,
+    "account_type": "CREDIT",
+    "balance": 3929.4457
+  },
+  {
+    "client_id": 60,
+    "account_type": "CREDIT",
+    "balance": 14481.0063
+  },
+  {
+    "client_id": 61,
+    "account_type": "CREDIT",
+    "balance": 47376.4412
+  },
+  {
+    "client_id": 62,
+    "account_type": "CREDIT",
+    "balance": 4066.8306
+  },
+  {
+    "client_id": 63,
+    "account_type": "CREDIT",
+    "balance": 46941.9496
+  },
+  {
+    "client_id": 64,
+    "account_type": "CREDIT",
+    "balance": 19381.3125
+  },
+  {
+    "client_id": 65,
+    "account_type": "CREDIT",
+    "balance": 45943.332
+  },
+  {
+    "client_id": 66,
+    "account_type": "CREDIT",
+    "balance": 46515.0755
+  },
+  {
+    "client_id": 67,
+    "account_type": "CREDIT",
+    "balance": 4887.7516
+  },
+  {
+    "client_id": 68,
+    "account_type": "CREDIT",
+    "balance": 36523.0187
+  },
+  {
+    "client_id": 69,
+    "account_type": "CREDIT",
+    "balance": 12492.1018
+  },
+  {
+    "client_id": 70,
+    "account_type": "CREDIT",
+    "balance": 4517.0646
+  },
+  {
+    "client_id": 71,
+    "account_type": "CREDIT",
+    "balance": 9325.2298
+  },
+  {
+    "client_id": 72,
+    "account_type": "CREDIT",
+    "balance": 13595.3484
+  },
+  {
+    "client_id": 73,
+    "account_type": "CREDIT",
+    "balance": 44480.7209
+  },
+  {
+    "client_id": 74,
+    "account_type": "CREDIT",
+    "balance": 44867.4813
+  },
+  {
+    "client_id": 75,
+    "account_type": "CREDIT",
+    "balance": 35907.6528
+  },
+  {
+    "client_id": 76,
+    "account_type": "CREDIT",
+    "balance": 5838.6045
+  },
+  {
+    "client_id": 77,
+    "account_type": "CREDIT",
+    "balance": 15429.1223
+  },
+  {
+    "client_id": 78,
+    "account_type": "CREDIT",
+    "balance": 14006.633
+  },
+  {
+    "client_id": 79,
+    "account_type": "CREDIT",
+    "balance": 10121.1361
+  },
+  {
+    "client_id": 80,
+    "account_type": "CREDIT",
+    "balance": 18130.2478
+  },
+  {
+    "client_id": 81,
+    "account_type": "CREDIT",
+    "balance": 43623.5046
+  },
+  {
+    "client_id": 82,
+    "account_type": "CREDIT",
+    "balance": 20321.0583
+  },
+  {
+    "client_id": 83,
+    "account_type": "CREDIT",
+    "balance": 47202.8698
+  },
+  {
+    "client_id": 84,
+    "account_type": "CREDIT",
+    "balance": 37818.5428
+  },
+  {
+    "client_id": 85,
+    "account_type": "CREDIT",
+    "balance": 26968.5872
+  },
+  {
+    "client_id": 86,
+    "account_type": "CREDIT",
+    "balance": 10656.9451
+  },
+  {
+    "client_id": 87,
+    "account_type": "CREDIT",
+    "balance": 36137.3818
+  },
+  {
+    "client_id": 88,
+    "account_type": "CREDIT",
+    "balance": 46189.9713
+  },
+  {
+    "client_id": 89,
+    "account_type": "CREDIT",
+    "balance": 21753.0417
+  },
+  {
+    "client_id": 90,
+    "account_type": "CREDIT",
+    "balance": 2137.2313
+  },
+  {
+    "client_id": 91,
+    "account_type": "CREDIT",
+    "balance": 19162.1684
+  },
+  {
+    "client_id": 92,
+    "account_type": "CREDIT",
+    "balance": 27935.2538
+  },
+  {
+    "client_id": 93,
+    "account_type": "CREDIT",
+    "balance": 10295.477
+  },
+  {
+    "client_id": 94,
+    "account_type": "CREDIT",
+    "balance": 40431.5313
+  },
+  {
+    "client_id": 95,
+    "account_type": "CREDIT",
+    "balance": 2365.8841
+  },
+  {
+    "client_id": 96,
+    "account_type": "CREDIT",
+    "balance": 14350.2342
+  },
+  {
+    "client_id": 97,
+    "account_type": "CREDIT",
+    "balance": 5256.6705
+  },
+  {
+    "client_id": 98,
+    "account_type": "CREDIT",
+    "balance": 29342.2583
+  },
+  {
+    "client_id": 99,
+    "account_type": "CREDIT",
+    "balance": 6222.7694
+  },
+  {
+    "client_id": 100,
+    "account_type": "CREDIT",
+    "balance": 28135.5105
+  },
+  {
+    "client_id": 101,
+    "account_type": "CREDIT",
+    "balance": 18452.406
+  },
+  {
+    "client_id": 102,
+    "account_type": "CREDIT",
+    "balance": 17858.1233
+  },
+  {
+    "client_id": 103,
+    "account_type": "CREDIT",
+    "balance": 36720.9628
+  },
+  {
+    "client_id": 104,
+    "account_type": "CREDIT",
+    "balance": 37795.1518
+  },
+  {
+    "client_id": 105,
+    "account_type": "CREDIT",
+    "balance": 49426.8118
+  },
+  {
+    "client_id": 106,
+    "account_type": "CREDIT",
+    "balance": 2791.8396
+  },
+  {
+    "client_id": 107,
+    "account_type": "CREDIT",
+    "balance": 12742.5278
+  },
+  {
+    "client_id": 108,
+    "account_type": "CREDIT",
+    "balance": 34777.1387
+  },
+  {
+    "client_id": 109,
+    "account_type": "CREDIT",
+    "balance": 36223.9521
+  },
+  {
+    "client_id": 110,
+    "account_type": "CREDIT",
+    "balance": 44418.4641
+  },
+  {
+    "client_id": 111,
+    "account_type": "CREDIT",
+    "balance": 31875.3669
+  },
+  {
+    "client_id": 112,
+    "account_type": "CREDIT",
+    "balance": 35728.849
+  },
+  {
+    "client_id": 113,
+    "account_type": "CREDIT",
+    "balance": 22766.7578
+  },
+  {
+    "client_id": 114,
+    "account_type": "CREDIT",
+    "balance": 26731.1669
+  },
+  {
+    "client_id": 115,
+    "account_type": "CREDIT",
+    "balance": 39234.4162
+  },
+  {
+    "client_id": 116,
+    "account_type": "CREDIT",
+    "balance": 1029.03
+  },
+  {
+    "client_id": 117,
+    "account_type": "CREDIT",
+    "balance": 5929.4226
+  },
+  {
+    "client_id": 118,
+    "account_type": "CREDIT",
+    "balance": 2722.299
+  },
+  {
+    "client_id": 119,
+    "account_type": "CREDIT",
+    "balance": 28044.0146
+  },
+  {
+    "client_id": 120,
+    "account_type": "CREDIT",
+    "balance": 7112.9751
+  },
+  {
+    "client_id": 121,
+    "account_type": "CREDIT",
+    "balance": 21236.8934
+  },
+  {
+    "client_id": 122,
+    "account_type": "CREDIT",
+    "balance": 31637.0968
+  },
+  {
+    "client_id": 123,
+    "account_type": "CREDIT",
+    "balance": 24535.597
+  },
+  {
+    "client_id": 124,
+    "account_type": "CREDIT",
+    "balance": 17393.0222
+  },
+  {
+    "client_id": 125,
+    "account_type": "CREDIT",
+    "balance": 36893.547
+  },
+  {
+    "client_id": 126,
+    "account_type": "CREDIT",
+    "balance": 8344.9046
+  },
+  {
+    "client_id": 127,
+    "account_type": "CREDIT",
+    "balance": 1054.3699
+  },
+  {
+    "client_id": 128,
+    "account_type": "CREDIT",
+    "balance": 22270.0285
+  },
+  {
+    "client_id": 129,
+    "account_type": "CREDIT",
+    "balance": 38940.9176
+  },
+  {
+    "client_id": 130,
+    "account_type": "CREDIT",
+    "balance": 45474.2913
+  },
+  {
+    "client_id": 131,
+    "account_type": "CREDIT",
+    "balance": 32410.694
+  },
+  {
+    "client_id": 132,
+    "account_type": "CREDIT",
+    "balance": 5135.1898
+  },
+  {
+    "client_id": 133,
+    "account_type": "CREDIT",
+    "balance": 41108.8296
+  },
+  {
+    "client_id": 134,
+    "account_type": "CREDIT",
+    "balance": 38959.299
+  },
+  {
+    "client_id": 135,
+    "account_type": "CREDIT",
+    "balance": 45266.0378
+  },
+  {
+    "client_id": 136,
+    "account_type": "CREDIT",
+    "balance": 40258.188
+  },
+  {
+    "client_id": 137,
+    "account_type": "CREDIT",
+    "balance": 36408.0452
+  },
+  {
+    "client_id": 138,
+    "account_type": "CREDIT",
+    "balance": 2096.5668
+  },
+  {
+    "client_id": 139,
+    "account_type": "CREDIT",
+    "balance": 46355.8235
+  },
+  {
+    "client_id": 140,
+    "account_type": "CREDIT",
+    "balance": 7789.1008
+  },
+  {
+    "client_id": 141,
+    "account_type": "CREDIT",
+    "balance": 6441.0644
+  },
+  {
+    "client_id": 142,
+    "account_type": "CREDIT",
+    "balance": 14554.0081
+  },
+  {
+    "client_id": 143,
+    "account_type": "CREDIT",
+    "balance": 32317.9439
+  },
+  {
+    "client_id": 144,
+    "account_type": "CREDIT",
+    "balance": 13319.6205
+  },
+  {
+    "client_id": 145,
+    "account_type": "CREDIT",
+    "balance": 33032.6309
+  },
+  {
+    "client_id": 146,
+    "account_type": "CREDIT",
+    "balance": 35842.4068
+  },
+  {
+    "client_id": 147,
+    "account_type": "CREDIT",
+    "balance": 41934.2075
+  },
+  {
+    "client_id": 148,
+    "account_type": "CREDIT",
+    "balance": 19472.0182
+  },
+  {
+    "client_id": 149,
+    "account_type": "CREDIT",
+    "balance": 47258.9539
+  },
+  {
+    "client_id": 150,
+    "account_type": "CREDIT",
+    "balance": 42271.013
+  },
+  {
+    "client_id": 151,
+    "account_type": "CREDIT",
+    "balance": 40705.4823
+  },
+  {
+    "client_id": 152,
+    "account_type": "CREDIT",
+    "balance": 40259.2514
+  },
+  {
+    "client_id": 153,
+    "account_type": "CREDIT",
+    "balance": 10362.7004
+  },
+  {
+    "client_id": 154,
+    "account_type": "CREDIT",
+    "balance": 9202.6325
+  },
+  {
+    "client_id": 155,
+    "account_type": "CREDIT",
+    "balance": 37358.619
+  },
+  {
+    "client_id": 156,
+    "account_type": "CREDIT",
+    "balance": 14656.0858
+  },
+  {
+    "client_id": 157,
+    "account_type": "CREDIT",
+    "balance": 39228.5837
+  },
+  {
+    "client_id": 158,
+    "account_type": "CREDIT",
+    "balance": 41332.6106
+  },
+  {
+    "client_id": 159,
+    "account_type": "CREDIT",
+    "balance": 48750.4079
+  },
+  {
+    "client_id": 160,
+    "account_type": "CREDIT",
+    "balance": 36910.9649
+  },
+  {
+    "client_id": 161,
+    "account_type": "CREDIT",
+    "balance": 35044.6848
+  },
+  {
+    "client_id": 162,
+    "account_type": "CREDIT",
+    "balance": 46778.1048
+  },
+  {
+    "client_id": 163,
+    "account_type": "CREDIT",
+    "balance": 28468.0814
+  },
+  {
+    "client_id": 164,
+    "account_type": "CREDIT",
+    "balance": 32414.3263
+  },
+  {
+    "client_id": 165,
+    "account_type": "CREDIT",
+    "balance": 24968.0868
+  },
+  {
+    "client_id": 166,
+    "account_type": "CREDIT",
+    "balance": 9883.6906
+  },
+  {
+    "client_id": 167,
+    "account_type": "CREDIT",
+    "balance": 22485.2519
+  },
+  {
+    "client_id": 168,
+    "account_type": "CREDIT",
+    "balance": 7642.9741
+  },
+  {
+    "client_id": 169,
+    "account_type": "CREDIT",
+    "balance": 32172.1977
+  },
+  {
+    "client_id": 170,
+    "account_type": "CREDIT",
+    "balance": 3765.4234
+  },
+  {
+    "client_id": 171,
+    "account_type": "CREDIT",
+    "balance": 47774.3526
+  },
+  {
+    "client_id": 172,
+    "account_type": "CREDIT",
+    "balance": 26076.1471
+  },
+  {
+    "client_id": 173,
+    "account_type": "CREDIT",
+    "balance": 3812.2538
+  },
+  {
+    "client_id": 174,
+    "account_type": "CREDIT",
+    "balance": 1333.4851
+  },
+  {
+    "client_id": 175,
+    "account_type": "CREDIT",
+    "balance": 49105.0122
+  },
+  {
+    "client_id": 176,
+    "account_type": "CREDIT",
+    "balance": 21488.5295
+  },
+  {
+    "client_id": 177,
+    "account_type": "CREDIT",
+    "balance": 5702.3451
+  },
+  {
+    "client_id": 178,
+    "account_type": "CREDIT",
+    "balance": 20548.4244
+  },
+  {
+    "client_id": 179,
+    "account_type": "CREDIT",
+    "balance": 27247.153
+  },
+  {
+    "client_id": 180,
+    "account_type": "CREDIT",
+    "balance": 35057.2164
+  },
+  {
+    "client_id": 181,
+    "account_type": "CREDIT",
+    "balance": 41030.2919
+  },
+  {
+    "client_id": 182,
+    "account_type": "CREDIT",
+    "balance": 41176.7516
+  },
+  {
+    "client_id": 183,
+    "account_type": "CREDIT",
+    "balance": 28069.2364
+  },
+  {
+    "client_id": 184,
+    "account_type": "CREDIT",
+    "balance": 4044.3533
+  },
+  {
+    "client_id": 185,
+    "account_type": "CREDIT",
+    "balance": 9610.0931
+  },
+  {
+    "client_id": 186,
+    "account_type": "CREDIT",
+    "balance": 31647.3261
+  },
+  {
+    "client_id": 187,
+    "account_type": "CREDIT",
+    "balance": 40052.4424
+  },
+  {
+    "client_id": 188,
+    "account_type": "CREDIT",
+    "balance": 5618.6919
+  },
+  {
+    "client_id": 189,
+    "account_type": "CREDIT",
+    "balance": 8472.3237
+  },
+  {
+    "client_id": 190,
+    "account_type": "CREDIT",
+    "balance": 5733.1718
+  },
+  {
+    "client_id": 191,
+    "account_type": "CREDIT",
+    "balance": 39483.8315
+  },
+  {
+    "client_id": 192,
+    "account_type": "CREDIT",
+    "balance": 14565.726
+  },
+  {
+    "client_id": 193,
+    "account_type": "CREDIT",
+    "balance": 23307.6777
+  },
+  {
+    "client_id": 194,
+    "account_type": "CREDIT",
+    "balance": 19169.3458
+  },
+  {
+    "client_id": 195,
+    "account_type": "CREDIT",
+    "balance": 22846.8644
+  },
+  {
+    "client_id": 196,
+    "account_type": "CREDIT",
+    "balance": 18284.3352
+  },
+  {
+    "client_id": 197,
+    "account_type": "CREDIT",
+    "balance": 3785.6956
+  },
+  {
+    "client_id": 198,
+    "account_type": "CREDIT",
+    "balance": 25854.8434
+  },
+  {
+    "client_id": 199,
+    "account_type": "CREDIT",
+    "balance": 49259.5662
+  },
+  {
+    "client_id": 200,
+    "account_type": "CREDIT",
+    "balance": 41081.141
+  },
+  {
+    "client_id": 201,
+    "account_type": "CREDIT",
+    "balance": 31707.5876
+  },
+  {
+    "client_id": 202,
+    "account_type": "CREDIT",
+    "balance": 46225.2737
+  },
+  {
+    "client_id": 203,
+    "account_type": "CREDIT",
+    "balance": 1694.5649
+  },
+  {
+    "client_id": 204,
+    "account_type": "CREDIT",
+    "balance": 2216.3311
+  },
+  {
+    "client_id": 205,
+    "account_type": "CREDIT",
+    "balance": 21016.1538
+  },
+  {
+    "client_id": 206,
+    "account_type": "CREDIT",
+    "balance": 48972.3554
+  },
+  {
+    "client_id": 207,
+    "account_type": "CREDIT",
+    "balance": 20870.9808
+  },
+  {
+    "client_id": 208,
+    "account_type": "CREDIT",
+    "balance": 35267.0624
+  },
+  {
+    "client_id": 209,
+    "account_type": "CREDIT",
+    "balance": 27990.0952
+  },
+  {
+    "client_id": 210,
+    "account_type": "CREDIT",
+    "balance": 29003.8239
+  },
+  {
+    "client_id": 211,
+    "account_type": "CREDIT",
+    "balance": 19382.8203
+  },
+  {
+    "client_id": 212,
+    "account_type": "CREDIT",
+    "balance": 2288.1612
+  },
+  {
+    "client_id": 213,
+    "account_type": "CREDIT",
+    "balance": 12523.6185
+  },
+  {
+    "client_id": 214,
+    "account_type": "CREDIT",
+    "balance": 39745.0417
+  },
+  {
+    "client_id": 215,
+    "account_type": "CREDIT",
+    "balance": 46366.0201
+  },
+  {
+    "client_id": 216,
+    "account_type": "CREDIT",
+    "balance": 40188.9114
+  },
+  {
+    "client_id": 217,
+    "account_type": "CREDIT",
+    "balance": 13665.2148
+  },
+  {
+    "client_id": 218,
+    "account_type": "CREDIT",
+    "balance": 18988.66
+  },
+  {
+    "client_id": 219,
+    "account_type": "CREDIT",
+    "balance": 10971.2221
+  },
+  {
+    "client_id": 220,
+    "account_type": "CREDIT",
+    "balance": 3552.0646
+  },
+  {
+    "client_id": 221,
+    "account_type": "CREDIT",
+    "balance": 14661.1498
+  },
+  {
+    "client_id": 222,
+    "account_type": "CREDIT",
+    "balance": 12606.3875
+  },
+  {
+    "client_id": 223,
+    "account_type": "CREDIT",
+    "balance": 6198.5759
+  },
+  {
+    "client_id": 224,
+    "account_type": "CREDIT",
+    "balance": 38733.708
+  },
+  {
+    "client_id": 225,
+    "account_type": "CREDIT",
+    "balance": 34759.3654
+  },
+  {
+    "client_id": 226,
+    "account_type": "CREDIT",
+    "balance": 41468.5957
+  },
+  {
+    "client_id": 227,
+    "account_type": "CREDIT",
+    "balance": 44899.8794
+  },
+  {
+    "client_id": 228,
+    "account_type": "CREDIT",
+    "balance": 15141.345
+  },
+  {
+    "client_id": 229,
+    "account_type": "CREDIT",
+    "balance": 41021.9129
+  },
+  {
+    "client_id": 230,
+    "account_type": "CREDIT",
+    "balance": 9160.5504
+  },
+  {
+    "client_id": 231,
+    "account_type": "CREDIT",
+    "balance": 23489.36
+  },
+  {
+    "client_id": 232,
+    "account_type": "CREDIT",
+    "balance": 6567.2613
+  },
+  {
+    "client_id": 233,
+    "account_type": "CREDIT",
+    "balance": 10242.6481
+  },
+  {
+    "client_id": 234,
+    "account_type": "CREDIT",
+    "balance": 41050.8051
+  },
+  {
+    "client_id": 235,
+    "account_type": "CREDIT",
+    "balance": 36037.6964
+  },
+  {
+    "client_id": 236,
+    "account_type": "CREDIT",
+    "balance": 39400.4323
+  },
+  {
+    "client_id": 237,
+    "account_type": "CREDIT",
+    "balance": 33754.887
+  },
+  {
+    "client_id": 238,
+    "account_type": "CREDIT",
+    "balance": 40217.0545
+  },
+  {
+    "client_id": 239,
+    "account_type": "CREDIT",
+    "balance": 13186.5488
+  },
+  {
+    "client_id": 240,
+    "account_type": "CREDIT",
+    "balance": 16494.4731
+  },
+  {
+    "client_id": 241,
+    "account_type": "CREDIT",
+    "balance": 30646.1963
+  },
+  {
+    "client_id": 242,
+    "account_type": "CREDIT",
+    "balance": 5429.8486
+  },
+  {
+    "client_id": 243,
+    "account_type": "CREDIT",
+    "balance": 18163.9828
+  },
+  {
+    "client_id": 244,
+    "account_type": "CREDIT",
+    "balance": 2518.1707
+  },
+  {
+    "client_id": 245,
+    "account_type": "CREDIT",
+    "balance": 28314.4098
+  },
+  {
+    "client_id": 246,
+    "account_type": "CREDIT",
+    "balance": 5356.4083
+  },
+  {
+    "client_id": 247,
+    "account_type": "CREDIT",
+    "balance": 20077.3463
+  },
+  {
+    "client_id": 248,
+    "account_type": "CREDIT",
+    "balance": 12090.4243
+  },
+  {
+    "client_id": 249,
+    "account_type": "CREDIT",
+    "balance": 2209.449
+  },
+  {
+    "client_id": 250,
+    "account_type": "CREDIT",
+    "balance": 10392.6043
+  },
+  {
+    "client_id": 251,
+    "account_type": "CREDIT",
+    "balance": 48896.1632
+  },
+  {
+    "client_id": 252,
+    "account_type": "CREDIT",
+    "balance": 15122.4359
+  },
+  {
+    "client_id": 253,
+    "account_type": "CREDIT",
+    "balance": 21899.06
+  },
+  {
+    "client_id": 254,
+    "account_type": "CREDIT",
+    "balance": 9464.9183
+  },
+  {
+    "client_id": 255,
+    "account_type": "CREDIT",
+    "balance": 2759.6258
+  },
+  {
+    "client_id": 256,
+    "account_type": "CREDIT",
+    "balance": 22483.0573
+  },
+  {
+    "client_id": 257,
+    "account_type": "CREDIT",
+    "balance": 27127.2002
+  },
+  {
+    "client_id": 258,
+    "account_type": "CREDIT",
+    "balance": 45780.1991
+  },
+  {
+    "client_id": 259,
+    "account_type": "CREDIT",
+    "balance": 49431.3284
+  },
+  {
+    "client_id": 260,
+    "account_type": "CREDIT",
+    "balance": 14828.1555
+  },
+  {
+    "client_id": 261,
+    "account_type": "CREDIT",
+    "balance": 5642.1509
+  },
+  {
+    "client_id": 262,
+    "account_type": "CREDIT",
+    "balance": 22201.8346
+  },
+  {
+    "client_id": 263,
+    "account_type": "CREDIT",
+    "balance": 33048.689
+  },
+  {
+    "client_id": 264,
+    "account_type": "CREDIT",
+    "balance": 46736.888
+  },
+  {
+    "client_id": 265,
+    "account_type": "CREDIT",
+    "balance": 27872.5957
+  },
+  {
+    "client_id": 266,
+    "account_type": "CREDIT",
+    "balance": 32461.819
+  },
+  {
+    "client_id": 267,
+    "account_type": "CREDIT",
+    "balance": 6674.5458
+  },
+  {
+    "client_id": 268,
+    "account_type": "CREDIT",
+    "balance": 38237.1854
+  },
+  {
+    "client_id": 269,
+    "account_type": "CREDIT",
+    "balance": 2154.5208
+  },
+  {
+    "client_id": 270,
+    "account_type": "CREDIT",
+    "balance": 42898.8885
+  },
+  {
+    "client_id": 271,
+    "account_type": "CREDIT",
+    "balance": 29596.7655
+  },
+  {
+    "client_id": 272,
+    "account_type": "CREDIT",
+    "balance": 29540.2473
+  },
+  {
+    "client_id": 273,
+    "account_type": "CREDIT",
+    "balance": 22203.415
+  },
+  {
+    "client_id": 274,
+    "account_type": "CREDIT",
+    "balance": 7859.5989
+  },
+  {
+    "client_id": 275,
+    "account_type": "CREDIT",
+    "balance": 35802.2263
+  },
+  {
+    "client_id": 276,
+    "account_type": "CREDIT",
+    "balance": 25040.2507
+  },
+  {
+    "client_id": 277,
+    "account_type": "CREDIT",
+    "balance": 43893.8915
+  },
+  {
+    "client_id": 278,
+    "account_type": "CREDIT",
+    "balance": 46320.3625
+  },
+  {
+    "client_id": 279,
+    "account_type": "CREDIT",
+    "balance": 1818.5733
+  },
+  {
+    "client_id": 280,
+    "account_type": "CREDIT",
+    "balance": 16224.781
+  },
+  {
+    "client_id": 281,
+    "account_type": "CREDIT",
+    "balance": 41633.0848
+  },
+  {
+    "client_id": 282,
+    "account_type": "CREDIT",
+    "balance": 25942.8439
+  },
+  {
+    "client_id": 283,
+    "account_type": "CREDIT",
+    "balance": 22339.312
+  },
+  {
+    "client_id": 284,
+    "account_type": "CREDIT",
+    "balance": 29137.7493
+  },
+  {
+    "client_id": 285,
+    "account_type": "CREDIT",
+    "balance": 4993.5742
+  },
+  {
+    "client_id": 286,
+    "account_type": "CREDIT",
+    "balance": 30696.4945
+  },
+  {
+    "client_id": 287,
+    "account_type": "CREDIT",
+    "balance": 46415.5106
+  },
+  {
+    "client_id": 288,
+    "account_type": "CREDIT",
+    "balance": 5928.9442
+  },
+  {
+    "client_id": 289,
+    "account_type": "CREDIT",
+    "balance": 5241.3794
+  },
+  {
+    "client_id": 290,
+    "account_type": "CREDIT",
+    "balance": 29007.1827
+  },
+  {
+    "client_id": 291,
+    "account_type": "CREDIT",
+    "balance": 12793.3059
+  },
+  {
+    "client_id": 292,
+    "account_type": "CREDIT",
+    "balance": 33596.247
+  },
+  {
+    "client_id": 293,
+    "account_type": "CREDIT",
+    "balance": 26912.8542
+  },
+  {
+    "client_id": 294,
+    "account_type": "CREDIT",
+    "balance": 35229.4584
+  },
+  {
+    "client_id": 295,
+    "account_type": "CREDIT",
+    "balance": 19266.1332
+  },
+  {
+    "client_id": 296,
+    "account_type": "CREDIT",
+    "balance": 22178.5582
+  },
+  {
+    "client_id": 297,
+    "account_type": "CREDIT",
+    "balance": 45139.7167
+  },
+  {
+    "client_id": 298,
+    "account_type": "CREDIT",
+    "balance": 37633.9803
+  },
+  {
+    "client_id": 299,
+    "account_type": "CREDIT",
+    "balance": 30721.0072
+  },
+  {
+    "client_id": 300,
+    "account_type": "CREDIT",
+    "balance": 10463.7557
+  },
+  {
+    "client_id": 301,
+    "account_type": "CREDIT",
+    "balance": 16514.5864
+  },
+  {
+    "client_id": 302,
+    "account_type": "CREDIT",
+    "balance": 17853.2038
+  },
+  {
+    "client_id": 303,
+    "account_type": "CREDIT",
+    "balance": 43494.5065
+  },
+  {
+    "client_id": 304,
+    "account_type": "CREDIT",
+    "balance": 21577.8698
+  },
+  {
+    "client_id": 305,
+    "account_type": "CREDIT",
+    "balance": 17553.9252
+  },
+  {
+    "client_id": 306,
+    "account_type": "CREDIT",
+    "balance": 33490.9027
+  },
+  {
+    "client_id": 307,
+    "account_type": "CREDIT",
+    "balance": 35547.6602
+  },
+  {
+    "client_id": 308,
+    "account_type": "CREDIT",
+    "balance": 18890.1297
+  },
+  {
+    "client_id": 309,
+    "account_type": "CREDIT",
+    "balance": 37564.7294
+  },
+  {
+    "client_id": 310,
+    "account_type": "CREDIT",
+    "balance": 48586.8939
+  },
+  {
+    "client_id": 311,
+    "account_type": "CREDIT",
+    "balance": 15744.7257
+  },
+  {
+    "client_id": 312,
+    "account_type": "CREDIT",
+    "balance": 42908.0916
+  },
+  {
+    "client_id": 313,
+    "account_type": "CREDIT",
+    "balance": 48124.5759
+  },
+  {
+    "client_id": 314,
+    "account_type": "CREDIT",
+    "balance": 14318.6945
+  },
+  {
+    "client_id": 315,
+    "account_type": "CREDIT",
+    "balance": 10828.0233
+  },
+  {
+    "client_id": 316,
+    "account_type": "CREDIT",
+    "balance": 38288.6194
+  },
+  {
+    "client_id": 317,
+    "account_type": "CREDIT",
+    "balance": 18867.9466
+  },
+  {
+    "client_id": 318,
+    "account_type": "CREDIT",
+    "balance": 33230.9021
+  },
+  {
+    "client_id": 319,
+    "account_type": "CREDIT",
+    "balance": 21629.7279
+  },
+  {
+    "client_id": 320,
+    "account_type": "CREDIT",
+    "balance": 16846.1477
+  },
+  {
+    "client_id": 321,
+    "account_type": "CREDIT",
+    "balance": 42807.9632
+  },
+  {
+    "client_id": 322,
+    "account_type": "CREDIT",
+    "balance": 48800.26
+  },
+  {
+    "client_id": 323,
+    "account_type": "CREDIT",
+    "balance": 36429.8559
+  },
+  {
+    "client_id": 324,
+    "account_type": "CREDIT",
+    "balance": 1226.2733
+  },
+  {
+    "client_id": 325,
+    "account_type": "CREDIT",
+    "balance": 36994.1814
+  },
+  {
+    "client_id": 326,
+    "account_type": "CREDIT",
+    "balance": 30129.598
+  },
+  {
+    "client_id": 327,
+    "account_type": "CREDIT",
+    "balance": 22957.9929
+  },
+  {
+    "client_id": 328,
+    "account_type": "CREDIT",
+    "balance": 2169.3577
+  },
+  {
+    "client_id": 329,
+    "account_type": "CREDIT",
+    "balance": 28127.1623
+  },
+  {
+    "client_id": 330,
+    "account_type": "CREDIT",
+    "balance": 44807.6084
+  },
+  {
+    "client_id": 331,
+    "account_type": "CREDIT",
+    "balance": 6709.4007
+  },
+  {
+    "client_id": 332,
+    "account_type": "CREDIT",
+    "balance": 30102.4123
+  },
+  {
+    "client_id": 333,
+    "account_type": "CREDIT",
+    "balance": 37073.4826
+  },
+  {
+    "client_id": 334,
+    "account_type": "CREDIT",
+    "balance": 33333.916
+  },
+  {
+    "client_id": 335,
+    "account_type": "CREDIT",
+    "balance": 21560.5491
+  },
+  {
+    "client_id": 336,
+    "account_type": "CREDIT",
+    "balance": 4111.8168
+  },
+  {
+    "client_id": 337,
+    "account_type": "CREDIT",
+    "balance": 42231.3208
+  },
+  {
+    "client_id": 338,
+    "account_type": "CREDIT",
+    "balance": 27925.7755
+  },
+  {
+    "client_id": 339,
+    "account_type": "CREDIT",
+    "balance": 17266.7485
+  },
+  {
+    "client_id": 340,
+    "account_type": "CREDIT",
+    "balance": 16211.423
+  },
+  {
+    "client_id": 341,
+    "account_type": "CREDIT",
+    "balance": 41601.78
+  },
+  {
+    "client_id": 342,
+    "account_type": "CREDIT",
+    "balance": 23488.0119
+  },
+  {
+    "client_id": 343,
+    "account_type": "CREDIT",
+    "balance": 1528.9919
+  },
+  {
+    "client_id": 344,
+    "account_type": "CREDIT",
+    "balance": 49866.1386
+  },
+  {
+    "client_id": 345,
+    "account_type": "CREDIT",
+    "balance": 47162.0436
+  },
+  {
+    "client_id": 346,
+    "account_type": "CREDIT",
+    "balance": 22053.8723
+  },
+  {
+    "client_id": 347,
+    "account_type": "CREDIT",
+    "balance": 27510.5318
+  },
+  {
+    "client_id": 348,
+    "account_type": "CREDIT",
+    "balance": 13328.4624
+  },
+  {
+    "client_id": 349,
+    "account_type": "CREDIT",
+    "balance": 10880.1279
+  },
+  {
+    "client_id": 350,
+    "account_type": "CREDIT",
+    "balance": 36145.7421
+  },
+  {
+    "client_id": 351,
+    "account_type": "CREDIT",
+    "balance": 36644.2193
+  },
+  {
+    "client_id": 352,
+    "account_type": "CREDIT",
+    "balance": 41471.5476
+  },
+  {
+    "client_id": 353,
+    "account_type": "CREDIT",
+    "balance": 12175.7445
+  },
+  {
+    "client_id": 354,
+    "account_type": "CREDIT",
+    "balance": 3691.1959
+  },
+  {
+    "client_id": 355,
+    "account_type": "CREDIT",
+    "balance": 39244.0043
+  },
+  {
+    "client_id": 356,
+    "account_type": "CREDIT",
+    "balance": 9523.473
+  },
+  {
+    "client_id": 357,
+    "account_type": "CREDIT",
+    "balance": 39594.0694
+  },
+  {
+    "client_id": 358,
+    "account_type": "CREDIT",
+    "balance": 19254.0156
+  },
+  {
+    "client_id": 359,
+    "account_type": "CREDIT",
+    "balance": 4549.7629
+  },
+  {
+    "client_id": 360,
+    "account_type": "CREDIT",
+    "balance": 10132.7307
+  },
+  {
+    "client_id": 361,
+    "account_type": "CREDIT",
+    "balance": 12845.9469
+  },
+  {
+    "client_id": 362,
+    "account_type": "CREDIT",
+    "balance": 43820.6729
+  },
+  {
+    "client_id": 363,
+    "account_type": "CREDIT",
+    "balance": 8719.6097
+  },
+  {
+    "client_id": 364,
+    "account_type": "CREDIT",
+    "balance": 2574.398
+  },
+  {
+    "client_id": 365,
+    "account_type": "CREDIT",
+    "balance": 19642.875
+  },
+  {
+    "client_id": 366,
+    "account_type": "CREDIT",
+    "balance": 27958.885
+  },
+  {
+    "client_id": 367,
+    "account_type": "CREDIT",
+    "balance": 27662.743
+  },
+  {
+    "client_id": 368,
+    "account_type": "CREDIT",
+    "balance": 32566.0322
+  },
+  {
+    "client_id": 369,
+    "account_type": "CREDIT",
+    "balance": 35780.8638
+  },
+  {
+    "client_id": 370,
+    "account_type": "CREDIT",
+    "balance": 14548.1535
+  },
+  {
+    "client_id": 371,
+    "account_type": "CREDIT",
+    "balance": 7012.8494
+  },
+  {
+    "client_id": 372,
+    "account_type": "CREDIT",
+    "balance": 32673.3839
+  },
+  {
+    "client_id": 373,
+    "account_type": "CREDIT",
+    "balance": 29146.8562
+  },
+  {
+    "client_id": 374,
+    "account_type": "CREDIT",
+    "balance": 37014.8681
+  },
+  {
+    "client_id": 375,
+    "account_type": "CREDIT",
+    "balance": 39247.7103
+  },
+  {
+    "client_id": 376,
+    "account_type": "CREDIT",
+    "balance": 30198.9166
+  },
+  {
+    "client_id": 377,
+    "account_type": "CREDIT",
+    "balance": 47143.6365
+  },
+  {
+    "client_id": 378,
+    "account_type": "CREDIT",
+    "balance": 11548.9534
+  },
+  {
+    "client_id": 379,
+    "account_type": "CREDIT",
+    "balance": 12921.6555
+  },
+  {
+    "client_id": 380,
+    "account_type": "CREDIT",
+    "balance": 7038.6247
+  },
+  {
+    "client_id": 381,
+    "account_type": "CREDIT",
+    "balance": 42929.24
+  },
+  {
+    "client_id": 382,
+    "account_type": "CREDIT",
+    "balance": 22938.2176
+  },
+  {
+    "client_id": 383,
+    "account_type": "CREDIT",
+    "balance": 24803.2956
+  },
+  {
+    "client_id": 384,
+    "account_type": "CREDIT",
+    "balance": 19741.7129
+  },
+  {
+    "client_id": 385,
+    "account_type": "CREDIT",
+    "balance": 49240.478
+  },
+  {
+    "client_id": 386,
+    "account_type": "CREDIT",
+    "balance": 40409.6093
+  },
+  {
+    "client_id": 387,
+    "account_type": "CREDIT",
+    "balance": 47452.8785
+  },
+  {
+    "client_id": 388,
+    "account_type": "CREDIT",
+    "balance": 10124.6376
+  },
+  {
+    "client_id": 389,
+    "account_type": "CREDIT",
+    "balance": 4291.7065
+  },
+  {
+    "client_id": 390,
+    "account_type": "CREDIT",
+    "balance": 43067.7072
+  },
+  {
+    "client_id": 391,
+    "account_type": "CREDIT",
+    "balance": 42646.5238
+  },
+  {
+    "client_id": 392,
+    "account_type": "CREDIT",
+    "balance": 17908.0563
+  },
+  {
+    "client_id": 393,
+    "account_type": "CREDIT",
+    "balance": 44983.8353
+  },
+  {
+    "client_id": 394,
+    "account_type": "CREDIT",
+    "balance": 34959.6983
+  },
+  {
+    "client_id": 395,
+    "account_type": "CREDIT",
+    "balance": 26592.6871
+  },
+  {
+    "client_id": 396,
+    "account_type": "CREDIT",
+    "balance": 3394.4704
+  },
+  {
+    "client_id": 397,
+    "account_type": "CREDIT",
+    "balance": 24285.7045
+  },
+  {
+    "client_id": 398,
+    "account_type": "CREDIT",
+    "balance": 14829.5788
+  },
+  {
+    "client_id": 399,
+    "account_type": "CREDIT",
+    "balance": 31052.608
+  },
+  {
+    "client_id": 400,
+    "account_type": "CREDIT",
+    "balance": 49848.7513
+  },
+  {
+    "client_id": 401,
+    "account_type": "CREDIT",
+    "balance": 35403.0529
+  },
+  {
+    "client_id": 402,
+    "account_type": "CREDIT",
+    "balance": 16079.0566
+  },
+  {
+    "client_id": 403,
+    "account_type": "CREDIT",
+    "balance": 21067.6691
+  },
+  {
+    "client_id": 404,
+    "account_type": "CREDIT",
+    "balance": 34618.7362
+  },
+  {
+    "client_id": 405,
+    "account_type": "CREDIT",
+    "balance": 4266.999
+  },
+  {
+    "client_id": 406,
+    "account_type": "CREDIT",
+    "balance": 16688.5083
+  },
+  {
+    "client_id": 407,
+    "account_type": "CREDIT",
+    "balance": 3391.0176
+  },
+  {
+    "client_id": 408,
+    "account_type": "CREDIT",
+    "balance": 39177.4019
+  },
+  {
+    "client_id": 409,
+    "account_type": "CREDIT",
+    "balance": 45410.1167
+  },
+  {
+    "client_id": 410,
+    "account_type": "CREDIT",
+    "balance": 19791.2105
+  },
+  {
+    "client_id": 411,
+    "account_type": "CREDIT",
+    "balance": 22889.1632
+  },
+  {
+    "client_id": 412,
+    "account_type": "CREDIT",
+    "balance": 15583.7531
+  },
+  {
+    "client_id": 413,
+    "account_type": "CREDIT",
+    "balance": 49379.3114
+  },
+  {
+    "client_id": 414,
+    "account_type": "CREDIT",
+    "balance": 10830.9468
+  },
+  {
+    "client_id": 415,
+    "account_type": "CREDIT",
+    "balance": 31592.7492
+  },
+  {
+    "client_id": 416,
+    "account_type": "CREDIT",
+    "balance": 26625.1155
+  },
+  {
+    "client_id": 417,
+    "account_type": "CREDIT",
+    "balance": 13698.505
+  },
+  {
+    "client_id": 418,
+    "account_type": "CREDIT",
+    "balance": 32720.7644
+  },
+  {
+    "client_id": 419,
+    "account_type": "CREDIT",
+    "balance": 30052.7709
+  },
+  {
+    "client_id": 420,
+    "account_type": "CREDIT",
+    "balance": 37992.5194
+  },
+  {
+    "client_id": 421,
+    "account_type": "CREDIT",
+    "balance": 44500.8484
+  },
+  {
+    "client_id": 422,
+    "account_type": "CREDIT",
+    "balance": 33133.543
+  },
+  {
+    "client_id": 423,
+    "account_type": "CREDIT",
+    "balance": 4649.8355
+  },
+  {
+    "client_id": 424,
+    "account_type": "CREDIT",
+    "balance": 46161.2114
+  },
+  {
+    "client_id": 425,
+    "account_type": "CREDIT",
+    "balance": 29831.7948
+  },
+  {
+    "client_id": 426,
+    "account_type": "CREDIT",
+    "balance": 45030.6932
+  },
+  {
+    "client_id": 427,
+    "account_type": "CREDIT",
+    "balance": 13233.5146
+  },
+  {
+    "client_id": 428,
+    "account_type": "CREDIT",
+    "balance": 21481.8341
+  },
+  {
+    "client_id": 429,
+    "account_type": "CREDIT",
+    "balance": 3273.1234
+  },
+  {
+    "client_id": 430,
+    "account_type": "CREDIT",
+    "balance": 5912.0523
+  },
+  {
+    "client_id": 431,
+    "account_type": "CREDIT",
+    "balance": 46233.6257
+  },
+  {
+    "client_id": 432,
+    "account_type": "CREDIT",
+    "balance": 24033.6911
+  },
+  {
+    "client_id": 433,
+    "account_type": "CREDIT",
+    "balance": 16548.9761
+  },
+  {
+    "client_id": 434,
+    "account_type": "CREDIT",
+    "balance": 44120.913
+  },
+  {
+    "client_id": 435,
+    "account_type": "CREDIT",
+    "balance": 45371.6443
+  },
+  {
+    "client_id": 436,
+    "account_type": "CREDIT",
+    "balance": 7685.4709
+  },
+  {
+    "client_id": 437,
+    "account_type": "CREDIT",
+    "balance": 45620.9083
+  },
+  {
+    "client_id": 438,
+    "account_type": "CREDIT",
+    "balance": 3036.5444
+  },
+  {
+    "client_id": 439,
+    "account_type": "CREDIT",
+    "balance": 46290.784
+  },
+  {
+    "client_id": 440,
+    "account_type": "CREDIT",
+    "balance": 46740.506
+  },
+  {
+    "client_id": 441,
+    "account_type": "CREDIT",
+    "balance": 42471.2541
+  },
+  {
+    "client_id": 442,
+    "account_type": "CREDIT",
+    "balance": 28594.9302
+  },
+  {
+    "client_id": 443,
+    "account_type": "CREDIT",
+    "balance": 17604.9573
+  },
+  {
+    "client_id": 444,
+    "account_type": "CREDIT",
+    "balance": 37170.1263
+  },
+  {
+    "client_id": 445,
+    "account_type": "CREDIT",
+    "balance": 34408.476
+  },
+  {
+    "client_id": 446,
+    "account_type": "CREDIT",
+    "balance": 34572.2605
+  },
+  {
+    "client_id": 447,
+    "account_type": "CREDIT",
+    "balance": 43167.9897
+  },
+  {
+    "client_id": 448,
+    "account_type": "CREDIT",
+    "balance": 18319.8933
+  },
+  {
+    "client_id": 449,
+    "account_type": "CREDIT",
+    "balance": 35071.2737
+  },
+  {
+    "client_id": 450,
+    "account_type": "CREDIT",
+    "balance": 34116.1221
+  },
+  {
+    "client_id": 451,
+    "account_type": "CREDIT",
+    "balance": 8157.6566
+  },
+  {
+    "client_id": 452,
+    "account_type": "CREDIT",
+    "balance": 2925.8628
+  },
+  {
+    "client_id": 453,
+    "account_type": "CREDIT",
+    "balance": 2692.9643
+  },
+  {
+    "client_id": 454,
+    "account_type": "CREDIT",
+    "balance": 10073.1879
+  },
+  {
+    "client_id": 455,
+    "account_type": "CREDIT",
+    "balance": 22075.989
+  },
+  {
+    "client_id": 456,
+    "account_type": "CREDIT",
+    "balance": 30800.7061
+  },
+  {
+    "client_id": 457,
+    "account_type": "CREDIT",
+    "balance": 20112.1332
+  },
+  {
+    "client_id": 458,
+    "account_type": "CREDIT",
+    "balance": 45786.0032
+  },
+  {
+    "client_id": 459,
+    "account_type": "CREDIT",
+    "balance": 45933.5166
+  },
+  {
+    "client_id": 460,
+    "account_type": "CREDIT",
+    "balance": 26848.995
+  },
+  {
+    "client_id": 461,
+    "account_type": "CREDIT",
+    "balance": 12569.4246
+  },
+  {
+    "client_id": 462,
+    "account_type": "CREDIT",
+    "balance": 40831.1927
+  },
+  {
+    "client_id": 463,
+    "account_type": "CREDIT",
+    "balance": 8819.2654
+  },
+  {
+    "client_id": 464,
+    "account_type": "CREDIT",
+    "balance": 49628.8197
+  },
+  {
+    "client_id": 465,
+    "account_type": "CREDIT",
+    "balance": 25280.8027
+  },
+  {
+    "client_id": 466,
+    "account_type": "CREDIT",
+    "balance": 41365.9813
+  },
+  {
+    "client_id": 467,
+    "account_type": "CREDIT",
+    "balance": 13531.1545
+  },
+  {
+    "client_id": 468,
+    "account_type": "CREDIT",
+    "balance": 39100.0455
+  },
+  {
+    "client_id": 469,
+    "account_type": "CREDIT",
+    "balance": 26578.1075
+  },
+  {
+    "client_id": 470,
+    "account_type": "CREDIT",
+    "balance": 49660.0223
+  },
+  {
+    "client_id": 471,
+    "account_type": "CREDIT",
+    "balance": 44945.0197
+  },
+  {
+    "client_id": 472,
+    "account_type": "CREDIT",
+    "balance": 27969.6625
+  },
+  {
+    "client_id": 473,
+    "account_type": "CREDIT",
+    "balance": 40236.3875
+  },
+  {
+    "client_id": 474,
+    "account_type": "CREDIT",
+    "balance": 20855.9908
+  },
+  {
+    "client_id": 475,
+    "account_type": "CREDIT",
+    "balance": 12089.7373
+  },
+  {
+    "client_id": 476,
+    "account_type": "CREDIT",
+    "balance": 31380.7975
+  },
+  {
+    "client_id": 477,
+    "account_type": "CREDIT",
+    "balance": 28826.1257
+  },
+  {
+    "client_id": 478,
+    "account_type": "CREDIT",
+    "balance": 6545.2302
+  },
+  {
+    "client_id": 479,
+    "account_type": "CREDIT",
+    "balance": 15655.7852
+  },
+  {
+    "client_id": 480,
+    "account_type": "CREDIT",
+    "balance": 44243.2153
+  },
+  {
+    "client_id": 481,
+    "account_type": "CREDIT",
+    "balance": 32438.7319
+  },
+  {
+    "client_id": 482,
+    "account_type": "CREDIT",
+    "balance": 39262.8092
+  },
+  {
+    "client_id": 483,
+    "account_type": "CREDIT",
+    "balance": 38828.3277
+  },
+  {
+    "client_id": 484,
+    "account_type": "CREDIT",
+    "balance": 26144.9355
+  },
+  {
+    "client_id": 485,
+    "account_type": "CREDIT",
+    "balance": 47498.9278
+  },
+  {
+    "client_id": 486,
+    "account_type": "CREDIT",
+    "balance": 26145.1153
+  },
+  {
+    "client_id": 487,
+    "account_type": "CREDIT",
+    "balance": 49984.8587
+  },
+  {
+    "client_id": 488,
+    "account_type": "CREDIT",
+    "balance": 8276.4123
+  },
+  {
+    "client_id": 489,
+    "account_type": "CREDIT",
+    "balance": 16401.2572
+  },
+  {
+    "client_id": 490,
+    "account_type": "CREDIT",
+    "balance": 10502.9389
+  },
+  {
+    "client_id": 491,
+    "account_type": "CREDIT",
+    "balance": 26789.1211
+  },
+  {
+    "client_id": 492,
+    "account_type": "CREDIT",
+    "balance": 14990.8571
+  },
+  {
+    "client_id": 493,
+    "account_type": "CREDIT",
+    "balance": 13836.1786
+  },
+  {
+    "client_id": 494,
+    "account_type": "CREDIT",
+    "balance": 42147.1755
+  },
+  {
+    "client_id": 495,
+    "account_type": "CREDIT",
+    "balance": 5675.2527
+  },
+  {
+    "client_id": 496,
+    "account_type": "CREDIT",
+    "balance": 39802.9849
+  },
+  {
+    "client_id": 497,
+    "account_type": "CREDIT",
+    "balance": 13731.8754
+  },
+  {
+    "client_id": 498,
+    "account_type": "CREDIT",
+    "balance": 44657.4863
+  },
+  {
+    "client_id": 499,
+    "account_type": "CREDIT",
+    "balance": 14083.2029
+  },
+  {
+    "client_id": 500,
+    "account_type": "CREDIT",
+    "balance": 5487.0813
+  },
+  {
+    "stack_trace": 501,
+    "message": "DEBIT",
+    "balance": 22490.4496
+  },
+  {
+    "stack_trace": 502,
+    "message": "DEBIT",
+    "balance": 8451.6406
+  },
+  {
+    "stack_trace": 503,
+    "message": "DEBIT",
+    "balance": 30068.7038
+  },
+  {
+    "stack_trace": 504,
+    "message": "DEBIT",
+    "balance": 41000.0242
+  },
+  {
+    "stack_trace": 505,
+    "message": "DEBIT",
+    "balance": 7981.5399
+  },
+  {
+    "stack_trace": 506,
+    "message": "DEBIT",
+    "balance": 31234.277
+  },
+  {
+    "stack_trace": 507,
+    "message": "DEBIT",
+    "balance": 31135.536
+  },
+  {
+    "stack_trace": 508,
+    "message": "DEBIT",
+    "balance": 37541.1508
+  },
+  {
+    "stack_trace": 509,
+    "message": "DEBIT",
+    "balance": 29983.5443
+  },
+  {
+    "stack_trace": 510,
+    "message": "DEBIT",
+    "balance": 20106.472
+  },
+  {
+    "stack_trace": 511,
+    "message": "DEBIT",
+    "balance": 40328.5799
+  },
+  {
+    "stack_trace": 512,
+    "message": "DEBIT",
+    "balance": 26121.7221
+  },
+  {
+    "stack_trace": 513,
+    "message": "DEBIT",
+    "balance": 38172.913
+  },
+  {
+    "stack_trace": 514,
+    "message": "DEBIT",
+    "balance": 28639.6997
+  },
+  {
+    "stack_trace": 515,
+    "message": "DEBIT",
+    "balance": 1414.0103
+  },
+  {
+    "stack_trace": 516,
+    "message": "DEBIT",
+    "balance": 29280.7963
+  },
+  {
+    "stack_trace": 517,
+    "message": "DEBIT",
+    "balance": 42334.9888
+  },
+  {
+    "stack_trace": 518,
+    "message": "DEBIT",
+    "balance": 46448.6799
+  },
+  {
+    "stack_trace": 519,
+    "message": "DEBIT",
+    "balance": 15335.7101
+  },
+  {
+    "stack_trace": 520,
+    "message": "DEBIT",
+    "balance": 19238.1855
+  },
+  {
+    "stack_trace": 521,
+    "message": "DEBIT",
+    "balance": 42128.3223
+  },
+  {
+    "stack_trace": 522,
+    "message": "DEBIT",
+    "balance": 18367.3797
+  },
+  {
+    "stack_trace": 523,
+    "message": "DEBIT",
+    "balance": 38347.1587
+  },
+  {
+    "stack_trace": 524,
+    "message": "DEBIT",
+    "balance": 8941.5468
+  },
+  {
+    "stack_trace": 525,
+    "message": "DEBIT",
+    "balance": 27220.0098
+  },
+  {
+    "stack_trace": 526,
+    "message": "DEBIT",
+    "balance": 5729.4474
+  },
+  {
+    "stack_trace": 527,
+    "message": "DEBIT",
+    "balance": 16850.5947
+  },
+  {
+    "stack_trace": 528,
+    "message": "DEBIT",
+    "balance": 42918.6977
+  },
+  {
+    "stack_trace": 529,
+    "message": "DEBIT",
+    "balance": 42102.4363
+  },
+  {
+    "stack_trace": 530,
+    "message": "DEBIT",
+    "balance": 12082.064
+  },
+  {
+    "stack_trace": 531,
+    "message": "DEBIT",
+    "balance": 34745.795
+  },
+  {
+    "stack_trace": 532,
+    "message": "DEBIT",
+    "balance": 48817.3277
+  },
+  {
+    "stack_trace": 533,
+    "message": "DEBIT",
+    "balance": 3396.4232
+  },
+  {
+    "stack_trace": 534,
+    "message": "DEBIT",
+    "balance": 13489.7744
+  },
+  {
+    "stack_trace": 535,
+    "message": "DEBIT",
+    "balance": 8169.5616
+  },
+  {
+    "stack_trace": 536,
+    "message": "DEBIT",
+    "balance": 14956.6134
+  },
+  {
+    "stack_trace": 537,
+    "message": "DEBIT",
+    "balance": 17983.0532
+  },
+  {
+    "stack_trace": 538,
+    "message": "DEBIT",
+    "balance": 10574.3195
+  },
+  {
+    "stack_trace": 539,
+    "message": "DEBIT",
+    "balance": 31084.8454
+  },
+  {
+    "stack_trace": 540,
+    "message": "DEBIT",
+    "balance": 47211.2007
+  },
+  {
+    "stack_trace": 541,
+    "message": "DEBIT",
+    "balance": 35273.5563
+  },
+  {
+    "stack_trace": 542,
+    "message": "DEBIT",
+    "balance": 20452.5232
+  },
+  {
+    "stack_trace": 543,
+    "message": "DEBIT",
+    "balance": 30476.7508
+  },
+  {
+    "stack_trace": 544,
+    "message": "DEBIT",
+    "balance": 20685.2044
+  },
+  {
+    "stack_trace": 545,
+    "message": "DEBIT",
+    "balance": 45201.5555
+  },
+  {
+    "stack_trace": 546,
+    "message": "DEBIT",
+    "balance": 8123.9029
+  },
+  {
+    "stack_trace": 547,
+    "message": "DEBIT",
+    "balance": 45811.8245
+  },
+  {
+    "stack_trace": 548,
+    "message": "DEBIT",
+    "balance": 23516.2489
+  },
+  {
+    "stack_trace": 549,
+    "message": "DEBIT",
+    "balance": 8080.9687
+  },
+  {
+    "stack_trace": 550,
+    "message": "DEBIT",
+    "balance": 36653.8498
+  },
+  {
+    "stack_trace": 551,
+    "message": "DEBIT",
+    "balance": 2932.8836
+  },
+  {
+    "stack_trace": 552,
+    "message": "DEBIT",
+    "balance": 3871.2674
+  },
+  {
+    "stack_trace": 553,
+    "message": "DEBIT",
+    "balance": 11383.0589
+  },
+  {
+    "stack_trace": 554,
+    "message": "DEBIT",
+    "balance": 43509.6143
+  },
+  {
+    "stack_trace": 555,
+    "message": "DEBIT",
+    "balance": 48691.0135
+  },
+  {
+    "stack_trace": 556,
+    "message": "DEBIT",
+    "balance": 21755.9436
+  },
+  {
+    "stack_trace": 557,
+    "message": "DEBIT",
+    "balance": 21850.3642
+  },
+  {
+    "stack_trace": 558,
+    "message": "DEBIT",
+    "balance": 36806.76
+  },
+  {
+    "stack_trace": 559,
+    "message": "DEBIT",
+    "balance": 24104.8456
+  },
+  {
+    "stack_trace": 560,
+    "message": "DEBIT",
+    "balance": 6171.844
+  },
+  {
+    "stack_trace": 561,
+    "message": "DEBIT",
+    "balance": 40976.7677
+  },
+  {
+    "stack_trace": 562,
+    "message": "DEBIT",
+    "balance": 32998.5171
+  },
+  {
+    "stack_trace": 563,
+    "message": "DEBIT",
+    "balance": 47064.9948
+  },
+  {
+    "stack_trace": 564,
+    "message": "DEBIT",
+    "balance": 37369.3579
+  },
+  {
+    "stack_trace": 565,
+    "message": "DEBIT",
+    "balance": 17625.6623
+  },
+  {
+    "stack_trace": 566,
+    "message": "DEBIT",
+    "balance": 35074.0779
+  },
+  {
+    "stack_trace": 567,
+    "message": "DEBIT",
+    "balance": 2282.8914
+  },
+  {
+    "stack_trace": 568,
+    "message": "DEBIT",
+    "balance": 34291.7764
+  },
+  {
+    "stack_trace": 569,
+    "message": "DEBIT",
+    "balance": 40832.3061
+  },
+  {
+    "stack_trace": 570,
+    "message": "DEBIT",
+    "balance": 35756.1718
+  },
+  {
+    "stack_trace": 571,
+    "message": "DEBIT",
+    "balance": 25039.992
+  },
+  {
+    "stack_trace": 572,
+    "message": "DEBIT",
+    "balance": 3370.5857
+  },
+  {
+    "stack_trace": 573,
+    "message": "DEBIT",
+    "balance": 17284.0311
+  },
+  {
+    "stack_trace": 574,
+    "message": "DEBIT",
+    "balance": 22090.1947
+  },
+  {
+    "stack_trace": 575,
+    "message": "DEBIT",
+    "balance": 23139.763
+  },
+  {
+    "stack_trace": 576,
+    "message": "DEBIT",
+    "balance": 10187.2004
+  },
+  {
+    "stack_trace": 577,
+    "message": "DEBIT",
+    "balance": 2930.3238
+  },
+  {
+    "stack_trace": 578,
+    "message": "DEBIT",
+    "balance": 28660.3819
+  },
+  {
+    "stack_trace": 579,
+    "message": "DEBIT",
+    "balance": 47002.2693
+  },
+  {
+    "stack_trace": 580,
+    "message": "DEBIT",
+    "balance": 48488.4521
+  },
+  {
+    "stack_trace": 581,
+    "message": "DEBIT",
+    "balance": 17566.2124
+  },
+  {
+    "stack_trace": 582,
+    "message": "DEBIT",
+    "balance": 13814.4378
+  },
+  {
+    "stack_trace": 583,
+    "message": "DEBIT",
+    "balance": 7522.9957
+  },
+  {
+    "stack_trace": 584,
+    "message": "DEBIT",
+    "balance": 11260.7557
+  },
+  {
+    "stack_trace": 585,
+    "message": "DEBIT",
+    "balance": 23299.7128
+  },
+  {
+    "stack_trace": 586,
+    "message": "DEBIT",
+    "balance": 29133.7309
+  },
+  {
+    "stack_trace": 587,
+    "message": "DEBIT",
+    "balance": 30776.0031
+  },
+  {
+    "stack_trace": 588,
+    "message": "DEBIT",
+    "balance": 49870.8096
+  },
+  {
+    "stack_trace": 589,
+    "message": "DEBIT",
+    "balance": 4605.9331
+  },
+  {
+    "stack_trace": 590,
+    "message": "DEBIT",
+    "balance": 11176.0273
+  },
+  {
+    "stack_trace": 591,
+    "message": "DEBIT",
+    "balance": 39456.8056
+  },
+  {
+    "stack_trace": 592,
+    "message": "DEBIT",
+    "balance": 23393.597
+  },
+  {
+    "stack_trace": 593,
+    "message": "DEBIT",
+    "balance": 3535.3216
+  },
+  {
+    "stack_trace": 594,
+    "message": "DEBIT",
+    "balance": 14447.0918
+  },
+  {
+    "stack_trace": 595,
+    "message": "DEBIT",
+    "balance": 18542.605
+  },
+  {
+    "stack_trace": 596,
+    "message": "DEBIT",
+    "balance": 42468.9002
+  },
+  {
+    "stack_trace": 597,
+    "message": "DEBIT",
+    "balance": 35134.8693
+  },
+  {
+    "stack_trace": 598,
+    "message": "DEBIT",
+    "balance": 49249.7802
+  },
+  {
+    "stack_trace": 599,
+    "message": "DEBIT",
+    "balance": 47080.7679
+  },
+  {
+    "stack_trace": 600,
+    "message": "DEBIT",
+    "balance": 18080.6208
+  },
+  {
+    "stack_trace": 601,
+    "message": "DEBIT",
+    "balance": 46503.6817
+  },
+  {
+    "stack_trace": 602,
+    "message": "DEBIT",
+    "balance": 27512.4689
+  },
+  {
+    "stack_trace": 603,
+    "message": "DEBIT",
+    "balance": 28558.6445
+  },
+  {
+    "stack_trace": 604,
+    "message": "DEBIT",
+    "balance": 12942.1621
+  },
+  {
+    "stack_trace": 605,
+    "message": "DEBIT",
+    "balance": 41388.5057
+  },
+  {
+    "stack_trace": 606,
+    "message": "DEBIT",
+    "balance": 34552.9032
+  },
+  {
+    "stack_trace": 607,
+    "message": "DEBIT",
+    "balance": 24720.0118
+  },
+  {
+    "stack_trace": 608,
+    "message": "DEBIT",
+    "balance": 24755.2385
+  },
+  {
+    "stack_trace": 609,
+    "message": "DEBIT",
+    "balance": 21859.7131
+  },
+  {
+    "stack_trace": 610,
+    "message": "DEBIT",
+    "balance": 38137.4913
+  },
+  {
+    "stack_trace": 611,
+    "message": "DEBIT",
+    "balance": 13274.3804
+  },
+  {
+    "stack_trace": 612,
+    "message": "DEBIT",
+    "balance": 1270.8537
+  },
+  {
+    "stack_trace": 613,
+    "message": "DEBIT",
+    "balance": 2250.4795
+  },
+  {
+    "stack_trace": 614,
+    "message": "DEBIT",
+    "balance": 9788.9515
+  },
+  {
+    "stack_trace": 615,
+    "message": "DEBIT",
+    "balance": 21593.8407
+  },
+  {
+    "stack_trace": 616,
+    "message": "DEBIT",
+    "balance": 38057.1176
+  },
+  {
+    "stack_trace": 617,
+    "message": "DEBIT",
+    "balance": 11118.5592
+  },
+  {
+    "stack_trace": 618,
+    "message": "DEBIT",
+    "balance": 48756.1355
+  },
+  {
+    "stack_trace": 619,
+    "message": "DEBIT",
+    "balance": 11301.2341
+  },
+  {
+    "stack_trace": 620,
+    "message": "DEBIT",
+    "balance": 13486.2519
+  },
+  {
+    "stack_trace": 621,
+    "message": "DEBIT",
+    "balance": 26853.7795
+  },
+  {
+    "stack_trace": 622,
+    "message": "DEBIT",
+    "balance": 34875.1759
+  },
+  {
+    "stack_trace": 623,
+    "message": "DEBIT",
+    "balance": 9786.6365
+  },
+  {
+    "stack_trace": 624,
+    "message": "DEBIT",
+    "balance": 8844.8823
+  },
+  {
+    "stack_trace": 625,
+    "message": "DEBIT",
+    "balance": 5713.6725
+  },
+  {
+    "stack_trace": 626,
+    "message": "DEBIT",
+    "balance": 47881.7352
+  },
+  {
+    "stack_trace": 627,
+    "message": "DEBIT",
+    "balance": 10078.1393
+  },
+  {
+    "stack_trace": 628,
+    "message": "DEBIT",
+    "balance": 43150.5312
+  },
+  {
+    "stack_trace": 629,
+    "message": "DEBIT",
+    "balance": 20195.2852
+  },
+  {
+    "stack_trace": 630,
+    "message": "DEBIT",
+    "balance": 33013.6923
+  },
+  {
+    "stack_trace": 631,
+    "message": "DEBIT",
+    "balance": 29812.3351
+  },
+  {
+    "stack_trace": 632,
+    "message": "DEBIT",
+    "balance": 47894.7625
+  },
+  {
+    "stack_trace": 633,
+    "message": "DEBIT",
+    "balance": 16603.5566
+  },
+  {
+    "stack_trace": 634,
+    "message": "DEBIT",
+    "balance": 32901.5213
+  },
+  {
+    "stack_trace": 635,
+    "message": "DEBIT",
+    "balance": 44730.876
+  },
+  {
+    "stack_trace": 636,
+    "message": "DEBIT",
+    "balance": 33129.9717
+  },
+  {
+    "stack_trace": 637,
+    "message": "DEBIT",
+    "balance": 34451.2076
+  },
+  {
+    "stack_trace": 638,
+    "message": "DEBIT",
+    "balance": 38940.5071
+  },
+  {
+    "stack_trace": 639,
+    "message": "DEBIT",
+    "balance": 2118.2208
+  },
+  {
+    "stack_trace": 640,
+    "message": "DEBIT",
+    "balance": 45030.3643
+  },
+  {
+    "stack_trace": 641,
+    "message": "DEBIT",
+    "balance": 48435.3211
+  },
+  {
+    "stack_trace": 642,
+    "message": "DEBIT",
+    "balance": 30684.6788
+  },
+  {
+    "stack_trace": 643,
+    "message": "DEBIT",
+    "balance": 40911.7642
+  },
+  {
+    "stack_trace": 644,
+    "message": "DEBIT",
+    "balance": 35159.9808
+  },
+  {
+    "stack_trace": 645,
+    "message": "DEBIT",
+    "balance": 49159.6413
+  },
+  {
+    "stack_trace": 646,
+    "message": "DEBIT",
+    "balance": 18988.4296
+  },
+  {
+    "stack_trace": 647,
+    "message": "DEBIT",
+    "balance": 45454.1636
+  },
+  {
+    "stack_trace": 648,
+    "message": "DEBIT",
+    "balance": 15861.5493
+  },
+  {
+    "stack_trace": 649,
+    "message": "DEBIT",
+    "balance": 11291.5736
+  },
+  {
+    "stack_trace": 650,
+    "message": "DEBIT",
+    "balance": 3580.8293
+  },
+  {
+    "stack_trace": 651,
+    "message": "DEBIT",
+    "balance": 35899.589
+  },
+  {
+    "stack_trace": 652,
+    "message": "DEBIT",
+    "balance": 25404.9478
+  },
+  {
+    "stack_trace": 653,
+    "message": "DEBIT",
+    "balance": 33771.1018
+  },
+  {
+    "stack_trace": 654,
+    "message": "DEBIT",
+    "balance": 6592.2471
+  },
+  {
+    "stack_trace": 655,
+    "message": "DEBIT",
+    "balance": 8283.4474
+  },
+  {
+    "stack_trace": 656,
+    "message": "DEBIT",
+    "balance": 11383.1873
+  },
+  {
+    "stack_trace": 657,
+    "message": "DEBIT",
+    "balance": 43680.4138
+  },
+  {
+    "stack_trace": 658,
+    "message": "DEBIT",
+    "balance": 48822.1041
+  },
+  {
+    "stack_trace": 659,
+    "message": "DEBIT",
+    "balance": 27523.0279
+  },
+  {
+    "stack_trace": 660,
+    "message": "DEBIT",
+    "balance": 9366.9432
+  },
+  {
+    "stack_trace": 661,
+    "message": "DEBIT",
+    "balance": 46172.4256
+  },
+  {
+    "stack_trace": 662,
+    "message": "DEBIT",
+    "balance": 14659.8241
+  },
+  {
+    "stack_trace": 663,
+    "message": "DEBIT",
+    "balance": 3511.207
+  },
+  {
+    "stack_trace": 664,
+    "message": "DEBIT",
+    "balance": 30613.779
+  },
+  {
+    "stack_trace": 665,
+    "message": "DEBIT",
+    "balance": 46980.0608
+  },
+  {
+    "stack_trace": 666,
+    "message": "DEBIT",
+    "balance": 19426.9675
+  },
+  {
+    "stack_trace": 667,
+    "message": "DEBIT",
+    "balance": 12369.082
+  },
+  {
+    "stack_trace": 668,
+    "message": "DEBIT",
+    "balance": 37885.6293
+  },
+  {
+    "stack_trace": 669,
+    "message": "DEBIT",
+    "balance": 41991.8175
+  },
+  {
+    "stack_trace": 670,
+    "message": "DEBIT",
+    "balance": 27254.0156
+  },
+  {
+    "stack_trace": 671,
+    "message": "DEBIT",
+    "balance": 19483.0445
+  },
+  {
+    "stack_trace": 672,
+    "message": "DEBIT",
+    "balance": 48534.0996
+  },
+  {
+    "stack_trace": 673,
+    "message": "DEBIT",
+    "balance": 31349.4842
+  },
+  {
+    "stack_trace": 674,
+    "message": "DEBIT",
+    "balance": 23432.8075
+  },
+  {
+    "stack_trace": 675,
+    "message": "DEBIT",
+    "balance": 34967.7153
+  },
+  {
+    "stack_trace": 676,
+    "message": "DEBIT",
+    "balance": 41470.9695
+  },
+  {
+    "stack_trace": 677,
+    "message": "DEBIT",
+    "balance": 42507.2065
+  },
+  {
+    "stack_trace": 678,
+    "message": "DEBIT",
+    "balance": 2786.0083
+  },
+  {
+    "stack_trace": 679,
+    "message": "DEBIT",
+    "balance": 29292.4901
+  },
+  {
+    "stack_trace": 680,
+    "message": "DEBIT",
+    "balance": 40214.3596
+  },
+  {
+    "stack_trace": 681,
+    "message": "DEBIT",
+    "balance": 38748.4241
+  },
+  {
+    "stack_trace": 682,
+    "message": "DEBIT",
+    "balance": 3286.3807
+  },
+  {
+    "stack_trace": 683,
+    "message": "DEBIT",
+    "balance": 41943.661
+  },
+  {
+    "stack_trace": 684,
+    "message": "DEBIT",
+    "balance": 19941.567
+  },
+  {
+    "stack_trace": 685,
+    "message": "DEBIT",
+    "balance": 41594.1966
+  },
+  {
+    "stack_trace": 686,
+    "message": "DEBIT",
+    "balance": 11078.8046
+  },
+  {
+    "stack_trace": 687,
+    "message": "DEBIT",
+    "balance": 45475.7074
+  },
+  {
+    "stack_trace": 688,
+    "message": "DEBIT",
+    "balance": 16945.7659
+  },
+  {
+    "stack_trace": 689,
+    "message": "DEBIT",
+    "balance": 31813.0336
+  },
+  {
+    "stack_trace": 690,
+    "message": "DEBIT",
+    "balance": 14148.0054
+  },
+  {
+    "stack_trace": 691,
+    "message": "DEBIT",
+    "balance": 12725.1204
+  },
+  {
+    "stack_trace": 692,
+    "message": "DEBIT",
+    "balance": 25855.7173
+  },
+  {
+    "stack_trace": 693,
+    "message": "DEBIT",
+    "balance": 3904.1047
+  },
+  {
+    "stack_trace": 694,
+    "message": "DEBIT",
+    "balance": 14048.5153
+  },
+  {
+    "stack_trace": 695,
+    "message": "DEBIT",
+    "balance": 45425.3693
+  },
+  {
+    "stack_trace": 696,
+    "message": "DEBIT",
+    "balance": 33116.7139
+  },
+  {
+    "stack_trace": 697,
+    "message": "DEBIT",
+    "balance": 9337.2945
+  },
+  {
+    "stack_trace": 698,
+    "message": "DEBIT",
+    "balance": 48767.1021
+  },
+  {
+    "stack_trace": 699,
+    "message": "DEBIT",
+    "balance": 32641.1734
+  },
+  {
+    "stack_trace": 700,
+    "message": "DEBIT",
+    "balance": 41542.5068
+  },
+  {
+    "stack_trace": 701,
+    "message": "DEBIT",
+    "balance": 40904.0647
+  },
+  {
+    "stack_trace": 702,
+    "message": "DEBIT",
+    "balance": 38145.3783
+  },
+  {
+    "stack_trace": 703,
+    "message": "DEBIT",
+    "balance": 6459.4591
+  },
+  {
+    "stack_trace": 704,
+    "message": "DEBIT",
+    "balance": 38907.8815
+  },
+  {
+    "stack_trace": 705,
+    "message": "DEBIT",
+    "balance": 47280.5879
+  },
+  {
+    "stack_trace": 706,
+    "message": "DEBIT",
+    "balance": 34973.9702
+  },
+  {
+    "stack_trace": 707,
+    "message": "DEBIT",
+    "balance": 49048.1052
+  },
+  {
+    "stack_trace": 708,
+    "message": "DEBIT",
+    "balance": 47208.3996
+  },
+  {
+    "stack_trace": 709,
+    "message": "DEBIT",
+    "balance": 31634.7933
+  },
+  {
+    "stack_trace": 710,
+    "message": "DEBIT",
+    "balance": 22867.3742
+  },
+  {
+    "stack_trace": 711,
+    "message": "DEBIT",
+    "balance": 14515.4943
+  },
+  {
+    "stack_trace": 712,
+    "message": "DEBIT",
+    "balance": 13456.2901
+  },
+  {
+    "stack_trace": 713,
+    "message": "DEBIT",
+    "balance": 2899.0568
+  },
+  {
+    "stack_trace": 714,
+    "message": "DEBIT",
+    "balance": 39917.7119
+  },
+  {
+    "stack_trace": 715,
+    "message": "DEBIT",
+    "balance": 2314.2081
+  },
+  {
+    "stack_trace": 716,
+    "message": "DEBIT",
+    "balance": 25561.8985
+  },
+  {
+    "stack_trace": 717,
+    "message": "DEBIT",
+    "balance": 25681.9396
+  },
+  {
+    "stack_trace": 718,
+    "message": "DEBIT",
+    "balance": 30401.4265
+  },
+  {
+    "stack_trace": 719,
+    "message": "DEBIT",
+    "balance": 47515.7011
+  },
+  {
+    "stack_trace": 720,
+    "message": "DEBIT",
+    "balance": 30614.2781
+  },
+  {
+    "stack_trace": 721,
+    "message": "DEBIT",
+    "balance": 10552.1517
+  },
+  {
+    "stack_trace": 722,
+    "message": "DEBIT",
+    "balance": 40692.0431
+  },
+  {
+    "stack_trace": 723,
+    "message": "DEBIT",
+    "balance": 32111.1172
+  },
+  {
+    "stack_trace": 724,
+    "message": "DEBIT",
+    "balance": 32326.9549
+  },
+  {
+    "stack_trace": 725,
+    "message": "DEBIT",
+    "balance": 31722.4729
+  },
+  {
+    "stack_trace": 726,
+    "message": "DEBIT",
+    "balance": 45433.7617
+  },
+  {
+    "stack_trace": 727,
+    "message": "DEBIT",
+    "balance": 22000.8426
+  },
+  {
+    "stack_trace": 728,
+    "message": "DEBIT",
+    "balance": 47337.4001
+  },
+  {
+    "stack_trace": 729,
+    "message": "DEBIT",
+    "balance": 19425.8304
+  },
+  {
+    "stack_trace": 730,
+    "message": "DEBIT",
+    "balance": 21025.2845
+  },
+  {
+    "stack_trace": 731,
+    "message": "DEBIT",
+    "balance": 3361.3971
+  },
+  {
+    "stack_trace": 732,
+    "message": "DEBIT",
+    "balance": 16513.8046
+  },
+  {
+    "stack_trace": 733,
+    "message": "DEBIT",
+    "balance": 22893.0252
+  },
+  {
+    "stack_trace": 734,
+    "message": "DEBIT",
+    "balance": 20455.7437
+  },
+  {
+    "stack_trace": 735,
+    "message": "DEBIT",
+    "balance": 12030.0234
+  },
+  {
+    "stack_trace": 736,
+    "message": "DEBIT",
+    "balance": 21157.2062
+  },
+  {
+    "stack_trace": 737,
+    "message": "DEBIT",
+    "balance": 40533.6605
+  },
+  {
+    "stack_trace": 738,
+    "message": "DEBIT",
+    "balance": 41014.5437
+  },
+  {
+    "stack_trace": 739,
+    "message": "DEBIT",
+    "balance": 46854.1379
+  },
+  {
+    "stack_trace": 740,
+    "message": "DEBIT",
+    "balance": 28348.4032
+  },
+  {
+    "stack_trace": 741,
+    "message": "DEBIT",
+    "balance": 32109.3779
+  },
+  {
+    "stack_trace": 742,
+    "message": "DEBIT",
+    "balance": 8817.3218
+  },
+  {
+    "stack_trace": 743,
+    "message": "DEBIT",
+    "balance": 5634.258
+  },
+  {
+    "stack_trace": 744,
+    "message": "DEBIT",
+    "balance": 15547.0963
+  },
+  {
+    "stack_trace": 745,
+    "message": "DEBIT",
+    "balance": 47393.0804
+  },
+  {
+    "stack_trace": 746,
+    "message": "DEBIT",
+    "balance": 20090.8059
+  },
+  {
+    "stack_trace": 747,
+    "message": "DEBIT",
+    "balance": 44582.4265
+  },
+  {
+    "stack_trace": 748,
+    "message": "DEBIT",
+    "balance": 22730.767
+  },
+  {
+    "stack_trace": 749,
+    "message": "DEBIT",
+    "balance": 49273.517
+  },
+  {
+    "stack_trace": 750,
+    "message": "DEBIT",
+    "balance": 11557.6757
+  },
+  {
+    "stack_trace": 751,
+    "message": "DEBIT",
+    "balance": 7622.6217
+  },
+  {
+    "stack_trace": 752,
+    "message": "DEBIT",
+    "balance": 14466.8912
+  },
+  {
+    "stack_trace": 753,
+    "message": "DEBIT",
+    "balance": 31829.7264
+  },
+  {
+    "stack_trace": 754,
+    "message": "DEBIT",
+    "balance": 21565.4102
+  },
+  {
+    "stack_trace": 755,
+    "message": "DEBIT",
+    "balance": 32826.9136
+  },
+  {
+    "stack_trace": 756,
+    "message": "DEBIT",
+    "balance": 28574.946
+  },
+  {
+    "stack_trace": 757,
+    "message": "DEBIT",
+    "balance": 25495.7845
+  },
+  {
+    "stack_trace": 758,
+    "message": "DEBIT",
+    "balance": 40573.2418
+  },
+  {
+    "stack_trace": 759,
+    "message": "DEBIT",
+    "balance": 5952.1033
+  },
+  {
+    "stack_trace": 760,
+    "message": "DEBIT",
+    "balance": 7663.299
+  },
+  {
+    "stack_trace": 761,
+    "message": "DEBIT",
+    "balance": 33134.1033
+  },
+  {
+    "stack_trace": 762,
+    "message": "DEBIT",
+    "balance": 34291.6623
+  },
+  {
+    "stack_trace": 763,
+    "message": "DEBIT",
+    "balance": 4869.347
+  },
+  {
+    "stack_trace": 764,
+    "message": "DEBIT",
+    "balance": 2778.4005
+  },
+  {
+    "stack_trace": 765,
+    "message": "DEBIT",
+    "balance": 5994.9309
+  },
+  {
+    "stack_trace": 766,
+    "message": "DEBIT",
+    "balance": 11963.1358
+  },
+  {
+    "stack_trace": 767,
+    "message": "DEBIT",
+    "balance": 44916.5364
+  },
+  {
+    "stack_trace": 768,
+    "message": "DEBIT",
+    "balance": 11984.7538
+  },
+  {
+    "stack_trace": 769,
+    "message": "DEBIT",
+    "balance": 30761.475
+  },
+  {
+    "stack_trace": 770,
+    "message": "DEBIT",
+    "balance": 13188.1502
+  },
+  {
+    "stack_trace": 771,
+    "message": "DEBIT",
+    "balance": 17343.7817
+  },
+  {
+    "stack_trace": 772,
+    "message": "DEBIT",
+    "balance": 30245.695
+  },
+  {
+    "stack_trace": 773,
+    "message": "DEBIT",
+    "balance": 8644.3834
+  },
+  {
+    "stack_trace": 774,
+    "message": "DEBIT",
+    "balance": 20360.7569
+  },
+  {
+    "stack_trace": 775,
+    "message": "DEBIT",
+    "balance": 22797.8706
+  },
+  {
+    "stack_trace": 776,
+    "message": "DEBIT",
+    "balance": 15665.6254
+  },
+  {
+    "stack_trace": 777,
+    "message": "DEBIT",
+    "balance": 48857.6663
+  },
+  {
+    "stack_trace": 778,
+    "message": "DEBIT",
+    "balance": 21332.4481
+  },
+  {
+    "stack_trace": 779,
+    "message": "DEBIT",
+    "balance": 49548.0671
+  },
+  {
+    "stack_trace": 780,
+    "message": "DEBIT",
+    "balance": 39990.099
+  },
+  {
+    "stack_trace": 781,
+    "message": "DEBIT",
+    "balance": 31372.9166
+  },
+  {
+    "stack_trace": 782,
+    "message": "DEBIT",
+    "balance": 37651.9247
+  },
+  {
+    "stack_trace": 783,
+    "message": "DEBIT",
+    "balance": 36402.7073
+  },
+  {
+    "stack_trace": 784,
+    "message": "DEBIT",
+    "balance": 22000.9006
+  },
+  {
+    "stack_trace": 785,
+    "message": "DEBIT",
+    "balance": 42955.4148
+  },
+  {
+    "stack_trace": 786,
+    "message": "DEBIT",
+    "balance": 37886.4421
+  },
+  {
+    "stack_trace": 787,
+    "message": "DEBIT",
+    "balance": 20612.1664
+  },
+  {
+    "stack_trace": 788,
+    "message": "DEBIT",
+    "balance": 46729.8235
+  },
+  {
+    "stack_trace": 789,
+    "message": "DEBIT",
+    "balance": 37425.0276
+  },
+  {
+    "stack_trace": 790,
+    "message": "DEBIT",
+    "balance": 12384.558
+  },
+  {
+    "stack_trace": 791,
+    "message": "DEBIT",
+    "balance": 27431.9662
+  },
+  {
+    "stack_trace": 792,
+    "message": "DEBIT",
+    "balance": 21027.5974
+  },
+  {
+    "stack_trace": 793,
+    "message": "DEBIT",
+    "balance": 16193.1381
+  },
+  {
+    "stack_trace": 794,
+    "message": "DEBIT",
+    "balance": 32052.4194
+  },
+  {
+    "stack_trace": 795,
+    "message": "DEBIT",
+    "balance": 14409.1596
+  },
+  {
+    "stack_trace": 796,
+    "message": "DEBIT",
+    "balance": 46778.2618
+  },
+  {
+    "stack_trace": 797,
+    "message": "DEBIT",
+    "balance": 24356.9818
+  },
+  {
+    "stack_trace": 798,
+    "message": "DEBIT",
+    "balance": 25530.0088
+  },
+  {
+    "stack_trace": 799,
+    "message": "DEBIT",
+    "balance": 33513.401
+  },
+  {
+    "stack_trace": 800,
+    "message": "DEBIT",
+    "balance": 38961.5579
+  },
+  {
+    "stack_trace": 801,
+    "message": "DEBIT",
+    "balance": 46580.1421
+  },
+  {
+    "stack_trace": 802,
+    "message": "DEBIT",
+    "balance": 12061.235
+  },
+  {
+    "stack_trace": 803,
+    "message": "DEBIT",
+    "balance": 40690.7737
+  },
+  {
+    "stack_trace": 804,
+    "message": "DEBIT",
+    "balance": 38237.5741
+  },
+  {
+    "stack_trace": 805,
+    "message": "DEBIT",
+    "balance": 22779.9795
+  },
+  {
+    "stack_trace": 806,
+    "message": "DEBIT",
+    "balance": 6645.1137
+  },
+  {
+    "stack_trace": 807,
+    "message": "DEBIT",
+    "balance": 4916.8495
+  },
+  {
+    "stack_trace": 808,
+    "message": "DEBIT",
+    "balance": 19959.8613
+  },
+  {
+    "stack_trace": 809,
+    "message": "DEBIT",
+    "balance": 38696.2471
+  },
+  {
+    "stack_trace": 810,
+    "message": "DEBIT",
+    "balance": 40230.2612
+  },
+  {
+    "stack_trace": 811,
+    "message": "DEBIT",
+    "balance": 33413.1319
+  },
+  {
+    "stack_trace": 812,
+    "message": "DEBIT",
+    "balance": 18286.39
+  },
+  {
+    "stack_trace": 813,
+    "message": "DEBIT",
+    "balance": 9254.2517
+  },
+  {
+    "stack_trace": 814,
+    "message": "DEBIT",
+    "balance": 43753.8626
+  },
+  {
+    "stack_trace": 815,
+    "message": "DEBIT",
+    "balance": 12015.1583
+  },
+  {
+    "stack_trace": 816,
+    "message": "DEBIT",
+    "balance": 16229.6563
+  },
+  {
+    "stack_trace": 817,
+    "message": "DEBIT",
+    "balance": 29096.3181
+  },
+  {
+    "stack_trace": 818,
+    "message": "DEBIT",
+    "balance": 35941.8805
+  },
+  {
+    "stack_trace": 819,
+    "message": "DEBIT",
+    "balance": 25956.7103
+  },
+  {
+    "stack_trace": 820,
+    "message": "DEBIT",
+    "balance": 2374.8196
+  },
+  {
+    "stack_trace": 821,
+    "message": "DEBIT",
+    "balance": 42516.3165
+  },
+  {
+    "stack_trace": 822,
+    "message": "DEBIT",
+    "balance": 49222.959
+  },
+  {
+    "stack_trace": 823,
+    "message": "DEBIT",
+    "balance": 19278.3551
+  },
+  {
+    "stack_trace": 824,
+    "message": "DEBIT",
+    "balance": 40503.9164
+  },
+  {
+    "stack_trace": 825,
+    "message": "DEBIT",
+    "balance": 46212.5811
+  },
+  {
+    "stack_trace": 826,
+    "message": "DEBIT",
+    "balance": 45807.0741
+  },
+  {
+    "stack_trace": 827,
+    "message": "DEBIT",
+    "balance": 7988.2459
+  },
+  {
+    "stack_trace": 828,
+    "message": "DEBIT",
+    "balance": 28697.6578
+  },
+  {
+    "stack_trace": 829,
+    "message": "DEBIT",
+    "balance": 39912.8213
+  },
+  {
+    "stack_trace": 830,
+    "message": "DEBIT",
+    "balance": 48816.3956
+  },
+  {
+    "stack_trace": 831,
+    "message": "DEBIT",
+    "balance": 13095.3068
+  },
+  {
+    "stack_trace": 832,
+    "message": "DEBIT",
+    "balance": 19323.7585
+  },
+  {
+    "stack_trace": 833,
+    "message": "DEBIT",
+    "balance": 41931.7106
+  },
+  {
+    "stack_trace": 834,
+    "message": "DEBIT",
+    "balance": 29012.596
+  },
+  {
+    "stack_trace": 835,
+    "message": "DEBIT",
+    "balance": 13887.6966
+  },
+  {
+    "stack_trace": 836,
+    "message": "DEBIT",
+    "balance": 23042.3896
+  },
+  {
+    "stack_trace": 837,
+    "message": "DEBIT",
+    "balance": 48725.1416
+  },
+  {
+    "stack_trace": 838,
+    "message": "DEBIT",
+    "balance": 30435.4895
+  },
+  {
+    "stack_trace": 839,
+    "message": "DEBIT",
+    "balance": 11166.4191
+  },
+  {
+    "stack_trace": 840,
+    "message": "DEBIT",
+    "balance": 34361.9777
+  },
+  {
+    "stack_trace": 841,
+    "message": "DEBIT",
+    "balance": 12796.0219
+  },
+  {
+    "stack_trace": 842,
+    "message": "DEBIT",
+    "balance": 18898.3435
+  },
+  {
+    "stack_trace": 843,
+    "message": "DEBIT",
+    "balance": 22435.6338
+  },
+  {
+    "stack_trace": 844,
+    "message": "DEBIT",
+    "balance": 35131.5237
+  },
+  {
+    "stack_trace": 845,
+    "message": "DEBIT",
+    "balance": 27933.5313
+  },
+  {
+    "stack_trace": 846,
+    "message": "DEBIT",
+    "balance": 19546.8393
+  },
+  {
+    "stack_trace": 847,
+    "message": "DEBIT",
+    "balance": 27432.5188
+  },
+  {
+    "stack_trace": 848,
+    "message": "DEBIT",
+    "balance": 11485.8238
+  },
+  {
+    "stack_trace": 849,
+    "message": "DEBIT",
+    "balance": 26066.4019
+  },
+  {
+    "stack_trace": 850,
+    "message": "DEBIT",
+    "balance": 31350.851
+  },
+  {
+    "stack_trace": 851,
+    "message": "DEBIT",
+    "balance": 39283.7966
+  },
+  {
+    "stack_trace": 852,
+    "message": "DEBIT",
+    "balance": 31288.4634
+  },
+  {
+    "stack_trace": 853,
+    "message": "DEBIT",
+    "balance": 8779.2518
+  },
+  {
+    "stack_trace": 854,
+    "message": "DEBIT",
+    "balance": 28906.0744
+  },
+  {
+    "stack_trace": 855,
+    "message": "DEBIT",
+    "balance": 29357.2984
+  },
+  {
+    "stack_trace": 856,
+    "message": "DEBIT",
+    "balance": 26530.1195
+  },
+  {
+    "stack_trace": 857,
+    "message": "DEBIT",
+    "balance": 26533.774
+  },
+  {
+    "stack_trace": 858,
+    "message": "DEBIT",
+    "balance": 47141.8367
+  },
+  {
+    "stack_trace": 859,
+    "message": "DEBIT",
+    "balance": 19129.1499
+  },
+  {
+    "stack_trace": 860,
+    "message": "DEBIT",
+    "balance": 15254.1695
+  },
+  {
+    "stack_trace": 861,
+    "message": "DEBIT",
+    "balance": 48959.6793
+  },
+  {
+    "stack_trace": 862,
+    "message": "DEBIT",
+    "balance": 33769.9781
+  },
+  {
+    "stack_trace": 863,
+    "message": "DEBIT",
+    "balance": 27663.8111
+  },
+  {
+    "stack_trace": 864,
+    "message": "DEBIT",
+    "balance": 34855.9912
+  },
+  {
+    "stack_trace": 865,
+    "message": "DEBIT",
+    "balance": 49500.8571
+  },
+  {
+    "stack_trace": 866,
+    "message": "DEBIT",
+    "balance": 34937.7817
+  },
+  {
+    "stack_trace": 867,
+    "message": "DEBIT",
+    "balance": 36107.1904
+  },
+  {
+    "stack_trace": 868,
+    "message": "DEBIT",
+    "balance": 6649.1683
+  },
+  {
+    "stack_trace": 869,
+    "message": "DEBIT",
+    "balance": 17387.3026
+  },
+  {
+    "stack_trace": 870,
+    "message": "DEBIT",
+    "balance": 16321.084
+  },
+  {
+    "stack_trace": 871,
+    "message": "DEBIT",
+    "balance": 1131.0163
+  },
+  {
+    "stack_trace": 872,
+    "message": "DEBIT",
+    "balance": 10418.3156
+  },
+  {
+    "stack_trace": 873,
+    "message": "DEBIT",
+    "balance": 1368.5769
+  },
+  {
+    "stack_trace": 874,
+    "message": "DEBIT",
+    "balance": 34734.3981
+  },
+  {
+    "stack_trace": 875,
+    "message": "DEBIT",
+    "balance": 45620.3748
+  },
+  {
+    "stack_trace": 876,
+    "message": "DEBIT",
+    "balance": 19030.7054
+  },
+  {
+    "stack_trace": 877,
+    "message": "DEBIT",
+    "balance": 16187.9458
+  },
+  {
+    "stack_trace": 878,
+    "message": "DEBIT",
+    "balance": 36504.2231
+  },
+  {
+    "stack_trace": 879,
+    "message": "DEBIT",
+    "balance": 41817.6974
+  },
+  {
+    "stack_trace": 880,
+    "message": "DEBIT",
+    "balance": 26862.7288
+  },
+  {
+    "stack_trace": 881,
+    "message": "DEBIT",
+    "balance": 7104.8725
+  },
+  {
+    "stack_trace": 882,
+    "message": "DEBIT",
+    "balance": 38089.3989
+  },
+  {
+    "stack_trace": 883,
+    "message": "DEBIT",
+    "balance": 41936.8915
+  },
+  {
+    "stack_trace": 884,
+    "message": "DEBIT",
+    "balance": 42935.9119
+  },
+  {
+    "stack_trace": 885,
+    "message": "DEBIT",
+    "balance": 46663.0237
+  },
+  {
+    "stack_trace": 886,
+    "message": "DEBIT",
+    "balance": 46539.0149
+  },
+  {
+    "stack_trace": 887,
+    "message": "DEBIT",
+    "balance": 1575.1445
+  },
+  {
+    "stack_trace": 888,
+    "message": "DEBIT",
+    "balance": 13026.2987
+  },
+  {
+    "stack_trace": 889,
+    "message": "DEBIT",
+    "balance": 48611.345
+  },
+  {
+    "stack_trace": 890,
+    "message": "DEBIT",
+    "balance": 13292.9232
+  },
+  {
+    "stack_trace": 891,
+    "message": "DEBIT",
+    "balance": 6921.8703
+  },
+  {
+    "stack_trace": 892,
+    "message": "DEBIT",
+    "balance": 28403.5068
+  },
+  {
+    "stack_trace": 893,
+    "message": "DEBIT",
+    "balance": 26410.1676
+  },
+  {
+    "stack_trace": 894,
+    "message": "DEBIT",
+    "balance": 16490.266
+  },
+  {
+    "stack_trace": 895,
+    "message": "DEBIT",
+    "balance": 19127.7933
+  },
+  {
+    "stack_trace": 896,
+    "message": "DEBIT",
+    "balance": 48883.8414
+  },
+  {
+    "stack_trace": 897,
+    "message": "DEBIT",
+    "balance": 5439.6791
+  },
+  {
+    "stack_trace": 898,
+    "message": "DEBIT",
+    "balance": 12377.9047
+  },
+  {
+    "stack_trace": 899,
+    "message": "DEBIT",
+    "balance": 24715.491
+  },
+  {
+    "stack_trace": 900,
+    "message": "DEBIT",
+    "balance": 10447.8821
+  },
+  {
+    "stack_trace": 901,
+    "message": "DEBIT",
+    "balance": 19638.6731
+  },
+  {
+    "stack_trace": 902,
+    "message": "DEBIT",
+    "balance": 44966.7893
+  },
+  {
+    "stack_trace": 903,
+    "message": "DEBIT",
+    "balance": 7761.9206
+  },
+  {
+    "stack_trace": 904,
+    "message": "DEBIT",
+    "balance": 30183.588
+  },
+  {
+    "stack_trace": 905,
+    "message": "DEBIT",
+    "balance": 47133.1139
+  },
+  {
+    "stack_trace": 906,
+    "message": "DEBIT",
+    "balance": 49539.2241
+  },
+  {
+    "stack_trace": 907,
+    "message": "DEBIT",
+    "balance": 8349.4995
+  },
+  {
+    "stack_trace": 908,
+    "message": "DEBIT",
+    "balance": 42142.1907
+  },
+  {
+    "stack_trace": 909,
+    "message": "DEBIT",
+    "balance": 20224.2545
+  },
+  {
+    "stack_trace": 910,
+    "message": "DEBIT",
+    "balance": 48873.1617
+  },
+  {
+    "stack_trace": 911,
+    "message": "DEBIT",
+    "balance": 28845.1939
+  },
+  {
+    "stack_trace": 912,
+    "message": "DEBIT",
+    "balance": 22252.0968
+  },
+  {
+    "stack_trace": 913,
+    "message": "DEBIT",
+    "balance": 19698.9071
+  },
+  {
+    "stack_trace": 914,
+    "message": "DEBIT",
+    "balance": 9651.1793
+  },
+  {
+    "stack_trace": 915,
+    "message": "DEBIT",
+    "balance": 48917.8515
+  },
+  {
+    "stack_trace": 916,
+    "message": "DEBIT",
+    "balance": 42042.3
+  },
+  {
+    "stack_trace": 917,
+    "message": "DEBIT",
+    "balance": 18353.5633
+  },
+  {
+    "stack_trace": 918,
+    "message": "DEBIT",
+    "balance": 40819.0068
+  },
+  {
+    "stack_trace": 919,
+    "message": "DEBIT",
+    "balance": 34603.488
+  },
+  {
+    "stack_trace": 920,
+    "message": "DEBIT",
+    "balance": 40005.7168
+  },
+  {
+    "stack_trace": 921,
+    "message": "DEBIT",
+    "balance": 19744.8686
+  },
+  {
+    "stack_trace": 922,
+    "message": "DEBIT",
+    "balance": 6489.2079
+  },
+  {
+    "stack_trace": 923,
+    "message": "DEBIT",
+    "balance": 31410.328
+  },
+  {
+    "stack_trace": 924,
+    "message": "DEBIT",
+    "balance": 11577.4286
+  },
+  {
+    "stack_trace": 925,
+    "message": "DEBIT",
+    "balance": 35107.8921
+  },
+  {
+    "stack_trace": 926,
+    "message": "DEBIT",
+    "balance": 48451.2468
+  },
+  {
+    "stack_trace": 927,
+    "message": "DEBIT",
+    "balance": 6121.8321
+  },
+  {
+    "stack_trace": 928,
+    "message": "DEBIT",
+    "balance": 45393.4116
+  },
+  {
+    "stack_trace": 929,
+    "message": "DEBIT",
+    "balance": 41539.2248
+  },
+  {
+    "stack_trace": 930,
+    "message": "DEBIT",
+    "balance": 32951.0721
+  },
+  {
+    "stack_trace": 931,
+    "message": "DEBIT",
+    "balance": 24657.3898
+  },
+  {
+    "stack_trace": 932,
+    "message": "DEBIT",
+    "balance": 20524.2245
+  },
+  {
+    "stack_trace": 933,
+    "message": "DEBIT",
+    "balance": 32559.8109
+  },
+  {
+    "stack_trace": 934,
+    "message": "DEBIT",
+    "balance": 25659.7053
+  },
+  {
+    "stack_trace": 935,
+    "message": "DEBIT",
+    "balance": 30649.7567
+  },
+  {
+    "stack_trace": 936,
+    "message": "DEBIT",
+    "balance": 27806.7431
+  },
+  {
+    "stack_trace": 937,
+    "message": "DEBIT",
+    "balance": 23403.2768
+  },
+  {
+    "stack_trace": 938,
+    "message": "DEBIT",
+    "balance": 25620.8599
+  },
+  {
+    "stack_trace": 939,
+    "message": "DEBIT",
+    "balance": 15419.2485
+  },
+  {
+    "stack_trace": 940,
+    "message": "DEBIT",
+    "balance": 42672.737
+  },
+  {
+    "stack_trace": 941,
+    "message": "DEBIT",
+    "balance": 17312.6264
+  },
+  {
+    "stack_trace": 942,
+    "message": "DEBIT",
+    "balance": 10333.5635
+  },
+  {
+    "stack_trace": 943,
+    "message": "DEBIT",
+    "balance": 31529.061
+  },
+  {
+    "stack_trace": 944,
+    "message": "DEBIT",
+    "balance": 43647.4612
+  },
+  {
+    "stack_trace": 945,
+    "message": "DEBIT",
+    "balance": 44211.2578
+  },
+  {
+    "stack_trace": 946,
+    "message": "DEBIT",
+    "balance": 24251.0167
+  },
+  {
+    "stack_trace": 947,
+    "message": "DEBIT",
+    "balance": 32659.3652
+  },
+  {
+    "stack_trace": 948,
+    "message": "DEBIT",
+    "balance": 47720.3742
+  },
+  {
+    "stack_trace": 949,
+    "message": "DEBIT",
+    "balance": 46311.8676
+  },
+  {
+    "stack_trace": 950,
+    "message": "DEBIT",
+    "balance": 28847.7018
+  },
+  {
+    "stack_trace": 951,
+    "message": "DEBIT",
+    "balance": 2583.651
+  },
+  {
+    "stack_trace": 952,
+    "message": "DEBIT",
+    "balance": 14903.527
+  },
+  {
+    "stack_trace": 953,
+    "message": "DEBIT",
+    "balance": 17022.3119
+  },
+  {
+    "stack_trace": 954,
+    "message": "DEBIT",
+    "balance": 21172.9866
+  },
+  {
+    "stack_trace": 955,
+    "message": "DEBIT",
+    "balance": 48137.416
+  },
+  {
+    "stack_trace": 956,
+    "message": "DEBIT",
+    "balance": 44247.4803
+  },
+  {
+    "stack_trace": 957,
+    "message": "DEBIT",
+    "balance": 27369.4601
+  },
+  {
+    "stack_trace": 958,
+    "message": "DEBIT",
+    "balance": 1211.6338
+  },
+  {
+    "stack_trace": 959,
+    "message": "DEBIT",
+    "balance": 43546.5507
+  },
+  {
+    "stack_trace": 960,
+    "message": "DEBIT",
+    "balance": 19138.2442
+  },
+  {
+    "stack_trace": 961,
+    "message": "DEBIT",
+    "balance": 22310.963
+  },
+  {
+    "stack_trace": 962,
+    "message": "DEBIT",
+    "balance": 30827.8219
+  },
+  {
+    "stack_trace": 963,
+    "message": "DEBIT",
+    "balance": 6177.7624
+  },
+  {
+    "stack_trace": 964,
+    "message": "DEBIT",
+    "balance": 35380.7261
+  },
+  {
+    "stack_trace": 965,
+    "message": "DEBIT",
+    "balance": 35781.4756
+  },
+  {
+    "stack_trace": 966,
+    "message": "DEBIT",
+    "balance": 43960.3414
+  },
+  {
+    "stack_trace": 967,
+    "message": "DEBIT",
+    "balance": 43805.7163
+  },
+  {
+    "stack_trace": 968,
+    "message": "DEBIT",
+    "balance": 37229.1105
+  },
+  {
+    "stack_trace": 969,
+    "message": "DEBIT",
+    "balance": 5711.3879
+  },
+  {
+    "stack_trace": 970,
+    "message": "DEBIT",
+    "balance": 28649.685
+  },
+  {
+    "stack_trace": 971,
+    "message": "DEBIT",
+    "balance": 23034.582
+  },
+  {
+    "stack_trace": 972,
+    "message": "DEBIT",
+    "balance": 27521.6717
+  },
+  {
+    "stack_trace": 973,
+    "message": "DEBIT",
+    "balance": 11382.1933
+  },
+  {
+    "stack_trace": 974,
+    "message": "DEBIT",
+    "balance": 31881.3927
+  },
+  {
+    "stack_trace": 975,
+    "message": "DEBIT",
+    "balance": 3738.6229
+  },
+  {
+    "stack_trace": 976,
+    "message": "DEBIT",
+    "balance": 18559.2856
+  },
+  {
+    "stack_trace": 977,
+    "message": "DEBIT",
+    "balance": 46060.7882
+  },
+  {
+    "stack_trace": 978,
+    "message": "DEBIT",
+    "balance": 20993.0934
+  },
+  {
+    "stack_trace": 979,
+    "message": "DEBIT",
+    "balance": 18191.3411
+  },
+  {
+    "stack_trace": 980,
+    "message": "DEBIT",
+    "balance": 18325.607
+  },
+  {
+    "stack_trace": 981,
+    "message": "DEBIT",
+    "balance": 15755.4783
+  },
+  {
+    "stack_trace": 982,
+    "message": "DEBIT",
+    "balance": 37119.3725
+  },
+  {
+    "stack_trace": 983,
+    "message": "DEBIT",
+    "balance": 45699.4296
+  },
+  {
+    "stack_trace": 984,
+    "message": "DEBIT",
+    "balance": 36535.5086
+  },
+  {
+    "stack_trace": 985,
+    "message": "DEBIT",
+    "balance": 2593.6985
+  },
+  {
+    "stack_trace": 986,
+    "message": "DEBIT",
+    "balance": 5173.4681
+  },
+  {
+    "stack_trace": 987,
+    "message": "DEBIT",
+    "balance": 23866.3503
+  },
+  {
+    "stack_trace": 988,
+    "message": "DEBIT",
+    "balance": 12939.0452
+  },
+  {
+    "stack_trace": 989,
+    "message": "DEBIT",
+    "balance": 24249.7457
+  },
+  {
+    "stack_trace": 990,
+    "message": "DEBIT",
+    "balance": 33284.6943
+  },
+  {
+    "stack_trace": 991,
+    "message": "DEBIT",
+    "balance": 27672.3343
+  },
+  {
+    "stack_trace": 992,
+    "message": "DEBIT",
+    "balance": 48465.7832
+  },
+  {
+    "stack_trace": 993,
+    "message": "DEBIT",
+    "balance": 32881.2347
+  },
+  {
+    "stack_trace": 994,
+    "message": "DEBIT",
+    "balance": 20503.6805
+  },
+  {
+    "stack_trace": 995,
+    "message": "DEBIT",
+    "balance": 21053.8844
+  },
+  {
+    "stack_trace": 996,
+    "message": "DEBIT",
+    "balance": 13241.1623
+  },
+  {
+    "stack_trace": 997,
+    "message": "DEBIT",
+    "balance": 12001.0948
+  },
+  {
+    "stack_trace": 998,
+    "message": "DEBIT",
+    "balance": 23468.3406
+  },
+  {
+    "stack_trace": 999,
+    "message": "DEBIT",
+    "balance": 38070.8927
+  },
+  {
+    "stack_trace": 1000,
+    "message": "DEBIT",
+    "balance": 13926.1525
+  }
+]

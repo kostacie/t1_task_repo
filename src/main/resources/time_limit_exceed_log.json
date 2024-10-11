@@ -1,0 +1,802 @@
+[
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 45062
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 3602
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 33358
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 5759
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 49633
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 1718
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 14773
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 23799
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 45501
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 44441
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 31432
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 46672
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 19907
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 32592
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 26576
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 2131
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 10837
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 20283
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 14959
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 2401
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 10454
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 30712
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 5687
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 2388
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 6426
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 12806
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 49470
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 2330
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 11400
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 38657
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 36662
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 16490
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 17686
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 21035
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 18549
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 29005
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 16541
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 34768
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 28788
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 49370
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 22831
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 28105
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 20091
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 46814
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 16746
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 1159
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 49920
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 6414
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 20544
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 24407
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 16553
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 36560
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 15656
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 7379
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 13385
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 7795
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 46220
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 29733
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 44466
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 39156
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 16130
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 31745
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 16230
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 18065
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 2837
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 7972
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 11231
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 42822
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 48443
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 45364
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 29550
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 8641
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 14248
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 33207
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 1266
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 44880
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 7237
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 42406
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 1034
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 3863
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 18236
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 8738
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 42861
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 10223
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 9235
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 26612
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 37171
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 6562
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 8244
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 46419
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 23305
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 18632
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 46144
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 33535
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 2202
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 4397
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 9745
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 23773
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 12504
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()",
+    "execution_time": 36151
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 6891
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 15927
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 1023
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 31388
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 37413
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 30205
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 47969
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 6800
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 20571
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 28022
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 21613
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 47003
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 3768
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 39147
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 49029
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 44197
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 46294
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 24108
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 34833
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 46151
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 2145
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 32417
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 46241
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 23059
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 30374
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 16368
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 46614
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 11142
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 42833
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 11656
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 22655
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 45906
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 47705
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 40481
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 35634
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 2759
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 7233
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 1664
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 33703
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 30785
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 46780
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 49740
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 38485
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 3936
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 45534
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 16515
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 35717
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 23541
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 21394
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 38848
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 9600
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 33619
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 13410
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 36065
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 13802
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 26593
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 25988
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 30393
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 46507
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 11961
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 40940
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 40799
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 15468
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 37180
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 17572
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 3669
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 12765
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 15112
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 15190
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 17611
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 13086
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 2240
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 21555
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 45601
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 41954
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 18380
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 30379
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 20385
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 15127
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 5583
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 5468
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 27864
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 1226
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 49367
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 10583
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 32458
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 35603
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 37512
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 19039
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 49603
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 8986
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 7248
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 26897
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 25034
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 11055
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 34753
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 1270
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 27577
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 41832
+  },
+  {
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()",
+    "execution_time": 13916
+  }
+]

@@ -9,6 +9,14 @@ CREATE SEQUENCE IF NOT EXISTS transaction_seq START WITH 1 INCREMENT BY 50;
 -- changeset e_cha:1727702549313-3
 CREATE SEQUENCE IF NOT EXISTS users_seq START WITH 1 INCREMENT BY 50;
 
+CREATE SEQUENCE IF NOT EXISTS transaction_seq START WITH 1 INCREMENT BY 50;
+
+CREATE SEQUENCE IF NOT EXISTS account_seq START WITH 1 INCREMENT BY 50;
+
+CREATE SEQUENCE IF NOT EXISTS data_source_error_log_seq START WITH 1 INCREMENT BY 50;
+
+CREATE SEQUENCE IF NOT EXISTS time_limit_exceed_log_seq START WITH 1 INCREMENT BY 50;
+
 -- changeset e_cha:1727702549313-4
 CREATE TABLE role
 (
@@ -20,9 +28,10 @@ CREATE TABLE role
 -- changeset e_cha:1727702549313-5
 CREATE TABLE transaction
 (
-    id        BIGINT NOT NULL,
-    amount    DECIMAL(19, 2),
-    client_id BIGINT,
+    id         BIGINT NOT NULL,
+    amount     DECIMAL(19, 2),
+    client_id  BIGINT,
+    account_id BIGINT,
     CONSTRAINT pk_transaction PRIMARY KEY (id)
 );
 
@@ -42,6 +51,32 @@ CREATE TABLE users
     email    VARCHAR(50),
     password VARCHAR(120),
     CONSTRAINT pk_users PRIMARY KEY (id)
+);
+
+CREATE TABLE account
+(
+    id          BIGINT NOT NULL,
+    client_id   BIGINT,
+    accountType VARCHAR(20),
+    balance     DECIMAL(19, 2),
+    CONSTRAINT pk_account PRIMARY KEY (id)
+);
+
+CREATE TABLE data_source_error_log
+(
+    id               BIGINT NOT NULL,
+    stack_trace      TEXT,
+    message          TEXT,
+    method_signature VARCHAR(64),
+    CONSTRAINT pk_err_log PRIMARY KEY (id)
+);
+
+CREATE TABLE time_limit_exceed_log
+(
+    id               BIGINT NOT NULL,
+    method_signature VARCHAR(64),
+    execution_time   BIGINT,
+    CONSTRAINT pk_exceed_log PRIMARY KEY (id)
 );
 
 -- changeset e_cha:1727702549313-8

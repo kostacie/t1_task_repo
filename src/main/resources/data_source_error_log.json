@@ -1,0 +1,2502 @@
+[
+  {
+    "stack_trace": "Stack trace 498",
+    "message": "Exception 921 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 956",
+    "message": "Exception 911 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 105",
+    "message": "Exception 790 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 024",
+    "message": "Exception 693 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 326",
+    "message": "Exception 223 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 592",
+    "message": "Exception 721 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 900",
+    "message": "Exception 058 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 484",
+    "message": "Exception 755 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 148",
+    "message": "Exception 654 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 385",
+    "message": "Exception 694 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 025",
+    "message": "Exception 119 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 287",
+    "message": "Exception 636 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 528",
+    "message": "Exception 112 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 319",
+    "message": "Exception 650 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 318",
+    "message": "Exception 652 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 691",
+    "message": "Exception 879 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 041",
+    "message": "Exception 660 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 217",
+    "message": "Exception 835 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 032",
+    "message": "Exception 346 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 093",
+    "message": "Exception 482 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 224",
+    "message": "Exception 414 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 972",
+    "message": "Exception 078 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 010",
+    "message": "Exception 862 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 797",
+    "message": "Exception 822 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 706",
+    "message": "Exception 801 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 309",
+    "message": "Exception 153 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 381",
+    "message": "Exception 989 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 822",
+    "message": "Exception 365 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 654",
+    "message": "Exception 224 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 898",
+    "message": "Exception 959 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 073",
+    "message": "Exception 037 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 177",
+    "message": "Exception 459 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 958",
+    "message": "Exception 785 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 848",
+    "message": "Exception 942 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 102",
+    "message": "Exception 429 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 165",
+    "message": "Exception 369 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 064",
+    "message": "Exception 308 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 751",
+    "message": "Exception 948 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 972",
+    "message": "Exception 723 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 908",
+    "message": "Exception 145 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 950",
+    "message": "Exception 187 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 511",
+    "message": "Exception 188 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 963",
+    "message": "Exception 647 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 548",
+    "message": "Exception 803 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 572",
+    "message": "Exception 728 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 073",
+    "message": "Exception 615 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 765",
+    "message": "Exception 148 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 580",
+    "message": "Exception 886 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 117",
+    "message": "Exception 886 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 540",
+    "message": "Exception 633 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 087",
+    "message": "Exception 212 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 718",
+    "message": "Exception 702 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 168",
+    "message": "Exception 737 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 992",
+    "message": "Exception 171 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 890",
+    "message": "Exception 891 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 585",
+    "message": "Exception 339 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 729",
+    "message": "Exception 253 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 246",
+    "message": "Exception 901 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 923",
+    "message": "Exception 384 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 921",
+    "message": "Exception 938 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 133",
+    "message": "Exception 556 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 879",
+    "message": "Exception 877 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 813",
+    "message": "Exception 629 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 792",
+    "message": "Exception 813 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 131",
+    "message": "Exception 912 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 594",
+    "message": "Exception 146 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 453",
+    "message": "Exception 891 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 554",
+    "message": "Exception 152 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 056",
+    "message": "Exception 810 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 401",
+    "message": "Exception 180 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 114",
+    "message": "Exception 358 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 143",
+    "message": "Exception 654 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 865",
+    "message": "Exception 820 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 324",
+    "message": "Exception 662 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 882",
+    "message": "Exception 856 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 918",
+    "message": "Exception 197 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 718",
+    "message": "Exception 760 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 127",
+    "message": "Exception 309 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 880",
+    "message": "Exception 546 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 047",
+    "message": "Exception 864 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 227",
+    "message": "Exception 450 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 073",
+    "message": "Exception 064 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 588",
+    "message": "Exception 818 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 387",
+    "message": "Exception 284 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 102",
+    "message": "Exception 375 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 574",
+    "message": "Exception 724 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 140",
+    "message": "Exception 365 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 225",
+    "message": "Exception 331 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 542",
+    "message": "Exception 634 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 712",
+    "message": "Exception 741 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 025",
+    "message": "Exception 002 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 472",
+    "message": "Exception 986 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 368",
+    "message": "Exception 070 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 224",
+    "message": "Exception 979 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 169",
+    "message": "Exception 826 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 016",
+    "message": "Exception 645 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 150",
+    "message": "Exception 503 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 338",
+    "message": "Exception 072 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 152",
+    "message": "Exception 791 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 084",
+    "message": "Exception 956 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 233",
+    "message": "Exception 691 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 175",
+    "message": "Exception 189 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 909",
+    "message": "Exception 930 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 571",
+    "message": "Exception 937 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 516",
+    "message": "Exception 112 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 672",
+    "message": "Exception 260 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 723",
+    "message": "Exception 422 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 651",
+    "message": "Exception 274 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 208",
+    "message": "Exception 515 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 001",
+    "message": "Exception 220 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 298",
+    "message": "Exception 767 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 396",
+    "message": "Exception 416 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 603",
+    "message": "Exception 922 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 751",
+    "message": "Exception 158 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 140",
+    "message": "Exception 924 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 087",
+    "message": "Exception 687 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 667",
+    "message": "Exception 018 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 899",
+    "message": "Exception 932 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 578",
+    "message": "Exception 736 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 626",
+    "message": "Exception 032 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 258",
+    "message": "Exception 785 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 783",
+    "message": "Exception 432 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 493",
+    "message": "Exception 979 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 429",
+    "message": "Exception 651 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 037",
+    "message": "Exception 158 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 723",
+    "message": "Exception 873 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 123",
+    "message": "Exception 708 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 151",
+    "message": "Exception 939 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 165",
+    "message": "Exception 665 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 209",
+    "message": "Exception 829 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 809",
+    "message": "Exception 004 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 509",
+    "message": "Exception 076 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 568",
+    "message": "Exception 148 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 750",
+    "message": "Exception 322 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 551",
+    "message": "Exception 081 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 258",
+    "message": "Exception 302 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 087",
+    "message": "Exception 177 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 597",
+    "message": "Exception 595 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 245",
+    "message": "Exception 419 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 895",
+    "message": "Exception 493 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 734",
+    "message": "Exception 783 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 086",
+    "message": "Exception 352 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 963",
+    "message": "Exception 958 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 231",
+    "message": "Exception 989 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 002",
+    "message": "Exception 465 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 811",
+    "message": "Exception 991 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 538",
+    "message": "Exception 291 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 764",
+    "message": "Exception 332 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 580",
+    "message": "Exception 004 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 457",
+    "message": "Exception 137 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 806",
+    "message": "Exception 962 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 923",
+    "message": "Exception 447 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 419",
+    "message": "Exception 977 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 352",
+    "message": "Exception 745 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 635",
+    "message": "Exception 679 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 511",
+    "message": "Exception 069 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 474",
+    "message": "Exception 754 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 536",
+    "message": "Exception 849 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 398",
+    "message": "Exception 718 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 922",
+    "message": "Exception 882 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 568",
+    "message": "Exception 196 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 353",
+    "message": "Exception 742 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 470",
+    "message": "Exception 343 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 170",
+    "message": "Exception 059 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 404",
+    "message": "Exception 542 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 010",
+    "message": "Exception 161 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 082",
+    "message": "Exception 120 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 195",
+    "message": "Exception 672 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 482",
+    "message": "Exception 090 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 362",
+    "message": "Exception 956 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 762",
+    "message": "Exception 667 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 525",
+    "message": "Exception 942 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 765",
+    "message": "Exception 064 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 638",
+    "message": "Exception 029 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 318",
+    "message": "Exception 255 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 755",
+    "message": "Exception 181 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 167",
+    "message": "Exception 618 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 365",
+    "message": "Exception 209 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 128",
+    "message": "Exception 809 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 524",
+    "message": "Exception 274 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 029",
+    "message": "Exception 472 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 327",
+    "message": "Exception 463 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 939",
+    "message": "Exception 871 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 216",
+    "message": "Exception 391 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 271",
+    "message": "Exception 814 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 505",
+    "message": "Exception 695 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 683",
+    "message": "Exception 672 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 771",
+    "message": "Exception 351 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 238",
+    "message": "Exception 462 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 358",
+    "message": "Exception 755 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 865",
+    "message": "Exception 395 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 555",
+    "message": "Exception 653 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 042",
+    "message": "Exception 227 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 633",
+    "message": "Exception 095 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 377",
+    "message": "Exception 955 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 276",
+    "message": "Exception 766 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 851",
+    "message": "Exception 470 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 159",
+    "message": "Exception 828 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 265",
+    "message": "Exception 695 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 453",
+    "message": "Exception 402 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 057",
+    "message": "Exception 250 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 407",
+    "message": "Exception 336 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 293",
+    "message": "Exception 906 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 646",
+    "message": "Exception 465 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 009",
+    "message": "Exception 148 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 224",
+    "message": "Exception 549 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 806",
+    "message": "Exception 483 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 583",
+    "message": "Exception 283 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 276",
+    "message": "Exception 521 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 566",
+    "message": "Exception 082 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 813",
+    "message": "Exception 429 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 774",
+    "message": "Exception 879 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 243",
+    "message": "Exception 863 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 815",
+    "message": "Exception 172 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 253",
+    "message": "Exception 375 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 382",
+    "message": "Exception 804 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 018",
+    "message": "Exception 960 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 228",
+    "message": "Exception 976 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 427",
+    "message": "Exception 171 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 586",
+    "message": "Exception 899 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 703",
+    "message": "Exception 042 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 160",
+    "message": "Exception 146 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 907",
+    "message": "Exception 552 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 264",
+    "message": "Exception 191 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 365",
+    "message": "Exception 331 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 863",
+    "message": "Exception 112 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 024",
+    "message": "Exception 955 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 614",
+    "message": "Exception 688 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 360",
+    "message": "Exception 015 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 406",
+    "message": "Exception 584 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 276",
+    "message": "Exception 820 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 426",
+    "message": "Exception 977 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 512",
+    "message": "Exception 779 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 774",
+    "message": "Exception 508 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 766",
+    "message": "Exception 015 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 775",
+    "message": "Exception 301 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 804",
+    "message": "Exception 321 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 246",
+    "message": "Exception 228 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 193",
+    "message": "Exception 115 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 520",
+    "message": "Exception 217 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 681",
+    "message": "Exception 250 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 321",
+    "message": "Exception 319 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 612",
+    "message": "Exception 037 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 113",
+    "message": "Exception 678 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 598",
+    "message": "Exception 836 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 672",
+    "message": "Exception 702 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 446",
+    "message": "Exception 039 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 459",
+    "message": "Exception 842 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 265",
+    "message": "Exception 778 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 098",
+    "message": "Exception 297 has been raised.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.doSomething()"
+  },
+  {
+    "stack_trace": "Stack trace 269",
+    "message": "Error 020 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 784",
+    "message": "Error 526 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 892",
+    "message": "Error 806 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 699",
+    "message": "Error 378 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 483",
+    "message": "Error 219 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 991",
+    "message": "Error 255 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 997",
+    "message": "Error 147 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 909",
+    "message": "Error 665 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 027",
+    "message": "Error 610 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 413",
+    "message": "Error 522 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 576",
+    "message": "Error 569 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 989",
+    "message": "Error 800 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 373",
+    "message": "Error 851 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 804",
+    "message": "Error 934 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 268",
+    "message": "Error 666 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 671",
+    "message": "Error 016 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 546",
+    "message": "Error 309 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 791",
+    "message": "Error 887 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 197",
+    "message": "Error 886 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 852",
+    "message": "Error 136 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 479",
+    "message": "Error 518 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 887",
+    "message": "Error 207 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 185",
+    "message": "Error 474 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 872",
+    "message": "Error 805 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 219",
+    "message": "Error 986 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 562",
+    "message": "Error 509 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 082",
+    "message": "Error 906 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 314",
+    "message": "Error 871 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 838",
+    "message": "Error 702 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 592",
+    "message": "Error 497 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 789",
+    "message": "Error 401 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 001",
+    "message": "Error 048 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 974",
+    "message": "Error 292 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 265",
+    "message": "Error 971 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 598",
+    "message": "Error 182 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 176",
+    "message": "Error 580 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 280",
+    "message": "Error 534 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 059",
+    "message": "Error 298 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 220",
+    "message": "Error 810 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 836",
+    "message": "Error 278 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 198",
+    "message": "Error 574 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 958",
+    "message": "Error 129 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 459",
+    "message": "Error 968 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 206",
+    "message": "Error 532 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 171",
+    "message": "Error 789 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 781",
+    "message": "Error 098 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 913",
+    "message": "Error 989 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 460",
+    "message": "Error 251 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 371",
+    "message": "Error 306 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 695",
+    "message": "Error 681 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 930",
+    "message": "Error 698 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 659",
+    "message": "Error 537 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 866",
+    "message": "Error 191 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 859",
+    "message": "Error 675 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 217",
+    "message": "Error 896 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 173",
+    "message": "Error 409 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 715",
+    "message": "Error 037 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 630",
+    "message": "Error 601 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 977",
+    "message": "Error 022 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 413",
+    "message": "Error 990 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 229",
+    "message": "Error 947 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 602",
+    "message": "Error 335 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 943",
+    "message": "Error 510 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 114",
+    "message": "Error 108 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 941",
+    "message": "Error 574 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 810",
+    "message": "Error 013 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 321",
+    "message": "Error 332 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 048",
+    "message": "Error 603 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 168",
+    "message": "Error 287 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 362",
+    "message": "Error 549 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 723",
+    "message": "Error 325 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 296",
+    "message": "Error 611 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 484",
+    "message": "Error 509 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 846",
+    "message": "Error 079 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 024",
+    "message": "Error 632 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 002",
+    "message": "Error 045 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 764",
+    "message": "Error 000 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 061",
+    "message": "Error 134 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 692",
+    "message": "Error 746 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 869",
+    "message": "Error 936 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 488",
+    "message": "Error 952 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 773",
+    "message": "Error 346 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 939",
+    "message": "Error 817 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 296",
+    "message": "Error 093 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 510",
+    "message": "Error 807 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 212",
+    "message": "Error 503 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 248",
+    "message": "Error 383 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 851",
+    "message": "Error 184 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 735",
+    "message": "Error 173 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 341",
+    "message": "Error 409 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 150",
+    "message": "Error 063 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 606",
+    "message": "Error 417 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 890",
+    "message": "Error 963 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 213",
+    "message": "Error 796 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 445",
+    "message": "Error 915 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 887",
+    "message": "Error 817 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 704",
+    "message": "Error 565 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 719",
+    "message": "Error 115 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 522",
+    "message": "Error 654 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 615",
+    "message": "Error 998 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 038",
+    "message": "Error 681 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 406",
+    "message": "Error 276 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 585",
+    "message": "Error 758 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 882",
+    "message": "Error 231 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 983",
+    "message": "Error 177 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 739",
+    "message": "Error 593 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 516",
+    "message": "Error 672 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 421",
+    "message": "Error 763 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 151",
+    "message": "Error 361 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 899",
+    "message": "Error 317 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 601",
+    "message": "Error 463 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 311",
+    "message": "Error 062 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 900",
+    "message": "Error 470 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 803",
+    "message": "Error 487 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 870",
+    "message": "Error 049 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 038",
+    "message": "Error 538 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 661",
+    "message": "Error 575 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 688",
+    "message": "Error 514 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 831",
+    "message": "Error 226 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 603",
+    "message": "Error 025 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 871",
+    "message": "Error 328 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 681",
+    "message": "Error 819 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 404",
+    "message": "Error 489 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 246",
+    "message": "Error 181 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 899",
+    "message": "Error 935 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 484",
+    "message": "Error 482 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 693",
+    "message": "Error 397 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 822",
+    "message": "Error 792 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 452",
+    "message": "Error 829 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 650",
+    "message": "Error 750 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 564",
+    "message": "Error 381 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 937",
+    "message": "Error 849 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 246",
+    "message": "Error 040 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 656",
+    "message": "Error 114 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 281",
+    "message": "Error 952 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 654",
+    "message": "Error 151 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 926",
+    "message": "Error 219 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 601",
+    "message": "Error 950 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 547",
+    "message": "Error 419 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 967",
+    "message": "Error 153 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 521",
+    "message": "Error 439 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 736",
+    "message": "Error 263 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 476",
+    "message": "Error 352 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 648",
+    "message": "Error 202 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 216",
+    "message": "Error 329 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 844",
+    "message": "Error 263 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 208",
+    "message": "Error 775 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 894",
+    "message": "Error 017 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 461",
+    "message": "Error 176 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 098",
+    "message": "Error 489 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 771",
+    "message": "Error 859 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 874",
+    "message": "Error 383 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 647",
+    "message": "Error 712 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 213",
+    "message": "Error 854 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 618",
+    "message": "Error 307 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 940",
+    "message": "Error 418 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 308",
+    "message": "Error 424 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 577",
+    "message": "Error 537 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 324",
+    "message": "Error 224 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 041",
+    "message": "Error 752 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 850",
+    "message": "Error 857 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 779",
+    "message": "Error 343 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 747",
+    "message": "Error 941 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 455",
+    "message": "Error 308 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 018",
+    "message": "Error 772 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 750",
+    "message": "Error 725 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 446",
+    "message": "Error 787 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 459",
+    "message": "Error 050 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 838",
+    "message": "Error 553 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 720",
+    "message": "Error 263 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 947",
+    "message": "Error 558 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 288",
+    "message": "Error 657 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 193",
+    "message": "Error 333 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 704",
+    "message": "Error 319 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 165",
+    "message": "Error 538 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 360",
+    "message": "Error 646 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 604",
+    "message": "Error 686 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 323",
+    "message": "Error 910 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 804",
+    "message": "Error 489 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 222",
+    "message": "Error 521 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 301",
+    "message": "Error 081 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 936",
+    "message": "Error 752 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 617",
+    "message": "Error 083 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 480",
+    "message": "Error 346 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 688",
+    "message": "Error 125 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 502",
+    "message": "Error 769 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 476",
+    "message": "Error 497 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 213",
+    "message": "Error 356 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 113",
+    "message": "Error 599 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 036",
+    "message": "Error 896 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 637",
+    "message": "Error 928 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 563",
+    "message": "Error 268 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 521",
+    "message": "Error 696 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 493",
+    "message": "Error 678 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 345",
+    "message": "Error 778 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 994",
+    "message": "Error 112 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 364",
+    "message": "Error 179 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 323",
+    "message": "Error 856 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 578",
+    "message": "Error 773 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 660",
+    "message": "Error 382 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 821",
+    "message": "Error 905 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 942",
+    "message": "Error 053 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 433",
+    "message": "Error 559 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 273",
+    "message": "Error 504 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 602",
+    "message": "Error 837 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 548",
+    "message": "Error 069 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 966",
+    "message": "Error 690 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 414",
+    "message": "Error 574 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 232",
+    "message": "Error 628 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 446",
+    "message": "Error 816 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 232",
+    "message": "Error 258 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 306",
+    "message": "Error 420 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 691",
+    "message": "Error 400 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 595",
+    "message": "Error 352 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 367",
+    "message": "Error 139 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 286",
+    "message": "Error 678 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 858",
+    "message": "Error 215 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 741",
+    "message": "Error 129 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 274",
+    "message": "Error 776 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 997",
+    "message": "Error 580 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 532",
+    "message": "Error 316 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 007",
+    "message": "Error 681 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 113",
+    "message": "Error 223 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 529",
+    "message": "Error 000 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 229",
+    "message": "Error 697 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 299",
+    "message": "Error 826 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 994",
+    "message": "Error 815 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 158",
+    "message": "Error 108 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 585",
+    "message": "Error 563 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 495",
+    "message": "Error 014 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 774",
+    "message": "Error 848 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 591",
+    "message": "Error 680 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 510",
+    "message": "Error 179 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 148",
+    "message": "Error 928 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 921",
+    "message": "Error 233 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 212",
+    "message": "Error 647 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 223",
+    "message": "Error 264 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 977",
+    "message": "Error 749 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 620",
+    "message": "Error 413 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 455",
+    "message": "Error 996 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 057",
+    "message": "Error 000 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 461",
+    "message": "Error 933 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 134",
+    "message": "Error 466 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 967",
+    "message": "Error 316 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 950",
+    "message": "Error 324 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 940",
+    "message": "Error 715 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 539",
+    "message": "Error 092 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 839",
+    "message": "Error 928 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 847",
+    "message": "Error 905 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  },
+  {
+    "stack_trace": "Stack trace 754",
+    "message": "Error 734 occurred.",
+    "method_signature": "void ru.t1.java.demo.controller.ClientController.parseSource()"
+  }
+]
