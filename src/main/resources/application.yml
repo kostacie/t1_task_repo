@@ -1,0 +1,56 @@
+spring:
+  application:
+    name: t1-java-demo
+  datasource:
+    jdbcUrl: jdbc:postgresql://localhost:5432/t1_demo
+    username: postgres
+    password: "0000"
+    driverClassName: org.postgresql.Driver
+  liquibase:
+    enabled: true
+    default-schema: t1_demo
+    change-log: db/changelog/db.changelog-master.xml
+    driver-class-name: org.postgresql.Driver
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/t1_demo
+    user: postgres
+    password: "0000"
+security:
+  token: tstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5h
+  expiration: 86400000
+
+logging:
+  level:
+    ROOT: DEBUG
+    ru.t1.java.demo.controller.ClientController: DEBUG
+    org.apache.kafka: INFO
+    org.hibernate.SQL: INFO
+
+t1:
+  scan-path: ru.t1.java.demo
+  kafka:
+    bootstrap:
+      server: localhost:9092
+    consumer:
+      group-id: t1-demo
+      max.poll.records: 10
+    producer:
+      enable: true
+    topic:
+      client_registration: t1_demo_client_registration
+      client_id_registered: t1_demo_client_registered
+      client_transactions: t1_demo_client_transactions
+    listener:
+      poll-timeout: 1000
+
+
+track:
+  errors-to-track: JsonParseException, IOException
+  kafka:
+    enabled: ${TRACK_KAFKA_LOG_ENABLED:true}
+    bootstrap-server: localhost:9092
+    data-source-error-topic: t1_demo_data_source_error
+    time-limit-exceed: t1_demo_time_limit_exceed
+  db:
+    enabled: false
+  time-limit-exceed: 1000
