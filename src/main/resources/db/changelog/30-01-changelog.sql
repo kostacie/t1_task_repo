@@ -57,7 +57,7 @@ CREATE TABLE account
 (
     id          BIGINT NOT NULL,
     client_id   BIGINT,
-    accountType VARCHAR(20),
+    account_type VARCHAR(20),
     balance     DECIMAL(19, 2),
     CONSTRAINT pk_account PRIMARY KEY (id)
 );

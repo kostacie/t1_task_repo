@@ -4,17 +4,17 @@ spring:
   datasource:
     jdbcUrl: jdbc:postgresql://localhost:5432/t1_demo
     username: postgres
-    password: "0000"
+    password: "140599"
     driverClassName: org.postgresql.Driver
   liquibase:
     enabled: true
-    default-schema: t1_demo
+#    default-schema: t1_demo
     change-log: db/changelog/db.changelog-master.xml
     driver-class-name: org.postgresql.Driver
     driverClassName: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/t1_demo
     user: postgres
-    password: "0000"
+    password: "140599"
 security:
   token: tstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5h
   expiration: 86400000
@@ -40,6 +40,8 @@ t1:
       client_registration: t1_demo_client_registration
       client_id_registered: t1_demo_client_registered
       client_transactions: t1_demo_client_transactions
+      client_accounts: t1_demo_client_accounts
+      client_metric_trace: t1_demo_metric_trace
     listener:
       poll-timeout: 1000
 

@@ -10,8 +10,7 @@ import ru.t1.java.demo.service.DataSourceErrorLogService;
 @Service
 @RequiredArgsConstructor
 public class DataSourceErrorLogServiceImpl implements DataSourceErrorLogService {
-    @Autowired
-    private DataSourceErrorLogRepository repository;
+    private final DataSourceErrorLogRepository repository;
     @Override
     public void save(DataSourceErrorLog errorLog) {
         repository.save(errorLog);

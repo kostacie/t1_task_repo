@@ -30,11 +30,6 @@ public class ClientController {
     @Value("${t1.kafka.topic.client_registration}")
     private String topic;
 
-    @PostConstruct
-    void init() {
-//        parseSource();
-    }
-
     @HandlingResult
     @GetMapping(value = "/parse")
     public void parseSource() throws Exception {

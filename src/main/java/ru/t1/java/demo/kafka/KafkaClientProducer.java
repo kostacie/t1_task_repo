@@ -15,22 +15,23 @@ public class KafkaClientProducer<T extends ClientDto> {
 
     private final KafkaTemplate template;
 
-    //TODO:
-    public void send(Long id) {
+    public void send(Long clientId) {
         try {
-            template.sendDefault(UUID.randomUUID().toString(), new ClientDto()).get();
-            template.flush();
+            template.sendDefault(UUID.randomUUID().toString(), clientId).get();
         } catch (Exception ex) {
             log.error(ex.getMessage(), ex);
+        } finally {
+            template.flush();
         }
     }
 
     public void sendTo(String topic, Object o) {
         try {
             template.send(topic, o).get();
-            template.flush();
         } catch (Exception ex) {
             log.error(ex.getMessage(), ex);
+        } finally {
+            template.flush();
         }
     }
 

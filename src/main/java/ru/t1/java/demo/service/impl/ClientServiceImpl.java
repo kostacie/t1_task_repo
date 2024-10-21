@@ -26,11 +26,11 @@ public class ClientServiceImpl implements ClientService {
 
     @Override
     public void registerClients(List<Client> clients) {
-        throw new NotYetImplementedException();
-//        repository.saveAll(clients)
-//                .stream()
-//                .map(Client::getId)
-//                .forEach(kafkaClientProducer::send);
+//        throw new NotYetImplementedException();
+        repository.saveAll(clients)
+                .stream()
+                .map(Client::getId)
+                .forEach(kafkaClientProducer::send);
     }
 
     //    @Transactional
