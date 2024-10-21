@@ -4,7 +4,7 @@ spring:
   datasource:
     jdbcUrl: jdbc:postgresql://localhost:5432/t1_demo
     username: postgres
-    password: "140599"
+    password: "0000"
     driverClassName: org.postgresql.Driver
   liquibase:
     enabled: true
@@ -14,7 +14,7 @@ spring:
     driverClassName: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/t1_demo
     user: postgres
-    password: "140599"
+    password: "0000"
 security:
   token: tstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5h
   expiration: 86400000

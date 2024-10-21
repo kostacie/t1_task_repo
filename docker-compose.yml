@@ -9,7 +9,7 @@ services:
       - "5432:5432"
     environment:
       - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=140599
+      - POSTGRES_PASSWORD=0000
   zookeeper_t1:
     image: confluentinc/cp-zookeeper:5.5.0
     hostname: zookeeper_t1
