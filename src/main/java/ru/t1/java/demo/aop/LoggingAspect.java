@@ -8,6 +8,10 @@ import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Component;
 import ru.t1.java.demo.model.Client;
 
+import java.util.List;
+
+import static java.util.Objects.isNull;
+
 @Slf4j
 @Aspect
 @Component

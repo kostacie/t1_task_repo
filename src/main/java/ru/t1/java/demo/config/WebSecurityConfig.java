@@ -22,15 +22,12 @@ import ru.t1.java.demo.util.JwtUtils;
 @Configuration
 @EnableMethodSecurity
 @RequiredArgsConstructor
-public class WebSecurityConfig { // extends WebSecurityConfigurerAdapter {
+public class WebSecurityConfig { // extends WebSecurityConfigurerAdapter { // Spring Boot 2
     private final UserDetailsServiceImpl userDetailsService;
     private final JwtUtils jwtUtils;
     private final AuthEntryPointJwt unauthorizedHandler;
 
-    @Bean
-    public AuthTokenFilter authenticationJwtTokenFilter() {
-        return new AuthTokenFilter(jwtUtils, userDetailsService);
-    }
+    // Spring Boot 2
 
 //  @Override
 //  public void configure(AuthenticationManagerBuilder authenticationManagerBuilder) throws Exception {
@@ -50,6 +47,17 @@ public class WebSecurityConfig { // extends WebSecurityConfigurerAdapter {
 //    http.addFilterBefore(authenticationJwtTokenFilter(), UsernamePasswordAuthenticationFilter.class);
 //  }
 
+//  @Bean
+//  @Override
+//  public AuthenticationManager authenticationManagerBean() throws Exception {
+//    return super.authenticationManagerBean();
+//  }
+
+    @Bean
+    public AuthTokenFilter authenticationJwtTokenFilter() {
+        return new AuthTokenFilter(jwtUtils, userDetailsService);
+    }
+
     @Bean
     public DaoAuthenticationProvider authenticationProvider() {
         DaoAuthenticationProvider authProvider = new DaoAuthenticationProvider();
@@ -60,11 +68,6 @@ public class WebSecurityConfig { // extends WebSecurityConfigurerAdapter {
         return authProvider;
     }
 
-//  @Bean
-//  @Override
-//  public AuthenticationManager authenticationManagerBean() throws Exception {
-//    return super.authenticationManagerBean();
-//  }
 
     @Bean
     public AuthenticationManager authenticationManager(AuthenticationConfiguration authConfig) throws Exception {
@@ -83,8 +86,10 @@ public class WebSecurityConfig { // extends WebSecurityConfigurerAdapter {
                 .sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
                 .authorizeHttpRequests(auth ->
                                 auth.requestMatchers("/api/auth/**").anonymous()
-                                        .requestMatchers("/parse/**").anonymous()
-                                        .requestMatchers("/parse").anonymous()
+                                        .requestMatchers("/parse/**").permitAll()
+                                        .requestMatchers("/parse").permitAll()
+                                        .requestMatchers("/actuator/prometheus").anonymous()
+                                        .requestMatchers("/actuator/*").anonymous()
                                         .anyRequest().permitAll()
                 );
 

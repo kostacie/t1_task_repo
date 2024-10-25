@@ -2,19 +2,27 @@ spring:
   application:
     name: t1-java-demo
   datasource:
-    jdbcUrl: jdbc:postgresql://${DB_HOST:localhost:5432}/t1_demo
+    jdbcUrl: jdbc:h2://${DB_HOST:localhost:5432}/t1_demo
     username: postgres
     password: "0000"
-    driverClassName: org.postgresql.Driver
+    driverClassName: org.h2.Driver
   liquibase:
-    enabled: true
-#    default-schema: t1_demo
+    enabled: false
+    default-schema: t1_demo
     change-log: db/changelog/db.changelog-master.xml
-    driver-class-name: org.postgresql.Driver
-    driverClassName: org.postgresql.Driver
+    driver-class-name: org.h2.Driver
+    driverClassName: org.h2.Driver
     url: jdbc:postgresql://${DB_HOST:localhost:5432}/t1_demo
     user: postgres
     password: "0000"
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+  h2:
+    console:
+      enabled: true
 security:
   token: tstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5htstrs4g434wyhser5h
   expiration: 86400000
@@ -62,8 +70,6 @@ t1:
       client_registration: t1_demo_client_registration
       client_id_registered: t1_demo_client_registered
       client_transactions: t1_demo_client_transactions
-      client_accounts: t1_demo_client_accounts
-      client_metric_trace: t1_demo_metric_trace
     listener:
       poll-timeout: 1000
 
