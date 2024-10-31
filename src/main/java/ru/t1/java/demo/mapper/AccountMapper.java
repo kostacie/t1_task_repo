@@ -13,6 +13,7 @@ public class AccountMapper {
                 .clientId(dto.getClientId())
                 .accountType(dto.getAccountType())
                 .balance(dto.getBalance())
+                .blocked(false)
                 .build();
     }
 
@@ -21,6 +22,7 @@ public class AccountMapper {
                 .clientId(entity.getClientId())
                 .accountType(entity.getAccountType())
                 .balance(entity.getBalance())
+                .blocked(entity.isBlocked())
                 .build();
     }
 }

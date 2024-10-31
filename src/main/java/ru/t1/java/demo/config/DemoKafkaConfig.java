@@ -106,6 +106,11 @@ public class DemoKafkaConfig {
         return kafkaListenerContainerFactory(AccountDto.class);
     }
 
+    @Bean("failedTransactionKafkaListenerContainerFactory")
+    ConcurrentKafkaListenerContainerFactory<String, Long> failedTransactionKafkaListenerContainerFactory() {
+        return kafkaListenerContainerFactory(Long.class);
+    }
+
     private CommonErrorHandler errorHandler() {
         DefaultErrorHandler handler = new DefaultErrorHandler(new FixedBackOff(1000, 3));
         handler.addNotRetryableExceptions(IllegalStateException.class);

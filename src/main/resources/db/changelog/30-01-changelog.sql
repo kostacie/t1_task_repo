@@ -17,6 +17,17 @@ CREATE SEQUENCE IF NOT EXISTS data_source_error_log_seq START WITH 1 INCREMENT B
 
 CREATE SEQUENCE IF NOT EXISTS time_limit_exceed_log_seq START WITH 1 INCREMENT BY 50;
 
+CREATE SCHEMA IF NOT EXISTS t1_demo_correction;
+
+CREATE TABLE IF NOT EXISTS t1_demo_correction.failed_transaction
+(
+    id         BIGINT         NOT NULL,
+    client_id  BIGINT         NOT NULL,
+    account_id BIGINT         NOT NULL,
+    amount     DECIMAL(19, 4) NOT NULL,
+    CONSTRAINT pk_failed_transaction PRIMARY KEY (id)
+);
+
 -- changeset e_cha:1727702549313-4
 CREATE TABLE role
 (
@@ -55,10 +66,11 @@ CREATE TABLE users
 
 CREATE TABLE account
 (
-    id          BIGINT NOT NULL,
-    client_id   BIGINT,
+    id           BIGINT NOT NULL,
+    client_id    BIGINT,
     account_type VARCHAR(20),
-    balance     DECIMAL(19, 2),
+    balance      DECIMAL(19, 2),
+    blocked      BOOLEAN,
     CONSTRAINT pk_account PRIMARY KEY (id)
 );
 

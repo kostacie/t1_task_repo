@@ -26,4 +26,7 @@ public class AccountDto {
 
     @JsonProperty("balance")
     private BigDecimal balance;
+
+    @JsonProperty("blocked")
+    private Boolean blocked;
 }

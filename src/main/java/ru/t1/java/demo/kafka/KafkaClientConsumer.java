@@ -58,27 +58,6 @@ public class KafkaClientConsumer {
     }
 
     @KafkaListener(groupId = "${t1.kafka.consumer.group-id}",
-            topics = "${t1.kafka.topic.client_transactions}",
-            containerFactory = "transactionKafkaListenerContainerFactory")
-    public void transactionListener(@Payload List<TransactionDto> messageList,
-                                    Acknowledgment ack,
-                                    @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
-                                    @Header(KafkaHeaders.RECEIVED_KEY) String key) {
-        log.debug("Transaction consumer: Обработка новых сообщений");
-
-        try {
-            List<Transaction> transactions = messageList.stream()
-                    .map(TransactionMapper::toEntity)
-                    .toList();
-            transactionService.saveAll(transactions);
-        } finally {
-            ack.acknowledge();
-        }
-
-        log.debug("Transaction consumer: записи обработаны");
-    }
-
-    @KafkaListener(groupId = "${t1.kafka.consumer.group-id}",
             topics = "${t1.kafka.topic.client_accounts}",
             containerFactory = "accountKafkaListenerContainerFactory")
     public void accountListener(@Payload List<AccountDto> messageList,

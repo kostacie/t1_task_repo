@@ -10,7 +10,7 @@ import ru.t1.java.demo.model.Transaction;
 @Component
 @Slf4j
 @RequiredArgsConstructor
-public class TransactionProducer {
+public class KafkaTransactionProducer {
 
     private final KafkaTemplate<String, Transaction> template;
 
@@ -19,7 +19,7 @@ public class TransactionProducer {
 
     public void send(Transaction transaction) {
         try {
-            template.send(topic, String.valueOf(transaction.getAccountId()), transaction);
+            template.send(topic, transaction);
             log.info("Successfully sent transaction: {}", transaction.getId());
         } catch (Exception ex) {
             log.error("Error sending transaction: {}", ex.getMessage());

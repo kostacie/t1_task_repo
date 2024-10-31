@@ -25,4 +25,7 @@ public class Account extends AbstractPersistable<Long> {
 
     @Column(name = "balance")
     private BigDecimal balance;
+
+    @Column(name = "blocked")
+    private boolean blocked;
 }

@@ -5,19 +5,27 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.transaction.annotation.Transactional;
+import org.springframework.web.bind.annotation.*;
 import ru.t1.java.demo.aop.HandlingResult;
 import ru.t1.java.demo.aop.LoggableException;
-import ru.t1.java.demo.kafka.KafkaClientProducer;
+import ru.t1.java.demo.kafka.KafkaTransactionProducer;
+import ru.t1.java.demo.mapper.AccountMapper;
+import ru.t1.java.demo.model.Account;
+import ru.t1.java.demo.model.AccountType;
 import ru.t1.java.demo.model.Client;
+import ru.t1.java.demo.model.Transaction;
+import ru.t1.java.demo.model.dto.AccountDto;
 import ru.t1.java.demo.model.dto.ClientDto;
 import ru.t1.java.demo.model.enums.Metrics;
 import ru.t1.java.demo.repository.ClientRepository;
+import ru.t1.java.demo.service.AccountService;
 import ru.t1.java.demo.service.ClientService;
 import ru.t1.java.demo.service.MetricService;
 import ru.t1.java.demo.util.ClientMapper;
+import ru.t1.java.demo.web.BaseWebClient;
+
+import java.math.BigDecimal;
 
 @RestController
 @RequiredArgsConstructor
@@ -25,13 +33,13 @@ import ru.t1.java.demo.util.ClientMapper;
 public class ClientController {
 
     private final ClientService clientService;
-    private final KafkaClientProducer kafkaClientProducer;
+    private final AccountService accountService;
     private final ClientRepository clientRepository;
     private final ClientMapper clientMapper;
     private final MetricService metricService;
+    private final KafkaTransactionProducer transactionProducer;
+    private final BaseWebClient webClient;
 
-    @Value("${t1.kafka.topic.client_registration}")
-    private String topic;
 
     @HandlingResult
     @GetMapping(value = "/parse")
@@ -51,6 +59,7 @@ public class ClientController {
     }
 
     @GetMapping("/register")
+    @PreAuthorize("hasRole('USER')")
     public ResponseEntity<Client> register(@RequestBody ClientDto clientDto) {
         log.info("Registering client: {}", clientDto);
         Client client = clientService.registerClient(
@@ -58,5 +67,68 @@ public class ClientController {
         );
 //        log.info("Client registered: {}", client.getId());
         return ResponseEntity.ok().body(client);
+    }
+
+    @PostMapping("/{clientId}/accounts/register")
+    @PreAuthorize("hasRole('USER')")
+    public ResponseEntity<Account> registerAccount(@PathVariable Long clientId, @RequestBody AccountDto accountDto) {
+        log.info("Registering account: {}", accountDto);
+        Account account = clientService.registerAccount(AccountMapper.toEntity(accountDto));
+//        account.setClientId(clientId);
+        return ResponseEntity.ok().body(account);
+    }
+
+    @PostMapping("/accounts/{accountId}/block")
+    @PreAuthorize("hasRole('ADMIN')")
+    public ResponseEntity<String> block(@PathVariable Long accountId) {
+        Account account = clientService.blockAccount(accountId);
+        if (account != null && account.isBlocked()) {
+            return ResponseEntity.ok("Account blocked.");
+        }
+        return ResponseEntity.badRequest().body("Account not found or already blocked.");
+    }
+
+    @Transactional
+    @PostMapping("accounts/{accountId}/unblock")
+    @PreAuthorize("hasRole('ADMIN')")
+    public ResponseEntity<String> unblock(@PathVariable Long accountId, @RequestBody Transaction transaction) {
+        Account account = accountService.findById(accountId).orElse(null);
+        if (account != null) {
+            AccountType accountType = account.getAccountType();
+            BigDecimal balance = account.getBalance();
+            // Если счет депозитный, то разблокировать счет
+            if (AccountType.DEBIT.equals(accountType)) {
+                clientService.unblockAccount(accountId);
+            }
+            // Если счет кредитный и к моменту получения запроса на нем достаточно средств,
+            // то разблокировать счет и обработать транзакцию повторно
+            if (AccountType.CREDIT.equals(accountType) && balance.compareTo(BigDecimal.ZERO) > 0) {
+                clientService.unblockAccount(accountId);
+                transactionProducer.send(transaction);
+            } else // Если средств недостаточно, то в ответном сообщении ответить отказом на запрос разблокировки
+                return ResponseEntity.badRequest().body("Refused to unblock account.");
+
+            return ResponseEntity.ok("Account unblocked successfully");
+        }
+        return ResponseEntity.badRequest().body("Account not found or already unblocked.");
+    }
+
+    // В случае, если поступило сообщение об "отмене" транзакции, удалить транзакцию из БД с корректировкой баланса.
+    @PostMapping("/cancel/{transactionId}")
+    @PreAuthorize("hasRole('USER')")
+    public ResponseEntity<String> cancel(@PathVariable Long transactionId) {
+        var canceled = clientService.cancelTransaction(transactionId);
+        sendRequest(canceled);
+        if (canceled != null) {
+            return ResponseEntity.ok("Transaction cancelled successfully.");
+        } else
+            return ResponseEntity.badRequest().body("Transaction can't be cancelled.");
+    }
+
+    private void sendRequest(Transaction transaction) {
+        webClient.post(uriBuilder ->
+                        uriBuilder.path("/info/cancel/" + transaction.getId()).build(),
+                transaction,
+                String.class);
     }
 }
