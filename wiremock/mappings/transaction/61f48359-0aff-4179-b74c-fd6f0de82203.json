@@ -1,21 +1,21 @@
 {
-  "id" : "cb502d8f-f536-4209-bf6e-d9fd379fbbd0",
-  "name" : "/api/client/check_blocked_false",
+  "id" : "61f48359-0aff-4179-b74c-fd6f0de82203",
+  "name" : "/api/transaction/permit_true",
   "request" : {
-    "url" : "/api/client/check",
+    "url" : "/api/transaction/permit",
     "method" : "POST"
   },
   "response" : {
     "status" : 200,
-    "body" : "{\n\"blocked\" : \"false\"\n}",
+    "body" : "{\n\"permitted\": \"true\"\n}",
     "headers" : {
       "Content-Type" : "application/json"
     }
   },
-  "uuid" : "cb502d8f-f536-4209-bf6e-d9fd379fbbd0",
+  "uuid" : "61f48359-0aff-4179-b74c-fd6f0de82203",
   "persistent" : true,
   "priority" : 1,
-  "scenarioName" : "client",
+  "scenarioName" : "transaction",
   "requiredScenarioState" : "Started",
   "metadata" : {
     "proxyUrlPrefixToRemove" : "",
@@ -33,7 +33,7 @@
     "isMqCSV" : false,
     "isAsyncCsv" : [ false ]
   },
-  "insertionIndex" : 1,
+  "insertionIndex" : 3,
   "postServeActions" : [ {
     "name" : "asyncAction",
     "parameters" : {

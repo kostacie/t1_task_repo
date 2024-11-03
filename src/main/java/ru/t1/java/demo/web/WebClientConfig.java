@@ -9,6 +9,7 @@ import lombok.SneakyThrows;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Primary;
 import org.springframework.http.client.reactive.ClientHttpConnector;
 import org.springframework.http.client.reactive.ReactorClientHttpConnector;
 import org.springframework.web.reactive.function.client.WebClient;
@@ -19,9 +20,11 @@ import java.time.Duration;
 
 @Configuration
 @RequiredArgsConstructor
-public class CheckClientConfig {
+public class WebClientConfig {
     @Value("${integration.url}")
     private String url;
+    @Value("${service.url:http://localhost:8080}")
+    private String baseUrl;
 
     private final ConnectionProvider connProvider = ConnectionProvider
             .builder("webclient-conn-pool")
@@ -33,6 +36,7 @@ public class CheckClientConfig {
             .build();
 
     @Bean
+    @Primary
     public CheckWebClient checkWebClient(ClientHttp clientHttp) {
         WebClient.Builder webClient = WebClient.builder();
         webClient
@@ -41,6 +45,21 @@ public class CheckClientConfig {
         return new CheckWebClient(webClient.build());
     }
 
+    @Bean
+    public PermitWebClient permitWebClient(ClientHttp clientHttp) {
+        WebClient.Builder webClient = WebClient.builder();
+        webClient
+                .baseUrl(url)
+                .clientConnector(clientHttp.getClientHttp(PermitWebClient.class.getName()));
+        return new PermitWebClient(webClient.build());
+    }
+
+    @Bean
+    public WebClient baseWebClient() {
+        return WebClient.builder()
+                .baseUrl(baseUrl)
+                .build();
+    }
 
     @Bean
     ClientHttp getClientHttp() {

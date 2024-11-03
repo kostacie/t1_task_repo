@@ -2,20 +2,17 @@ package ru.t1.java.demo.controller;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.*;
-import ru.t1.java.demo.kafka.KafkaTransactionProducer;
 import ru.t1.java.demo.mapper.TransactionMapper;
 import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Transaction;
-import ru.t1.java.demo.model.dto.CheckResponse;
 import ru.t1.java.demo.model.dto.TransactionDto;
 import ru.t1.java.demo.repository.AccountRepository;
 import ru.t1.java.demo.repository.TransactionRepository;
-import ru.t1.java.demo.web.BaseWebClient;
+import ru.t1.java.demo.service.TransactionService;
 
 @RestController
 @RequestMapping("/transactions")
@@ -25,6 +22,7 @@ public class TransactionController {
 
     private final TransactionRepository transactionRepository;
     private final AccountRepository accountRepository;
+    private final TransactionService transactionService;
 
 
     @GetMapping("/info")
@@ -59,5 +57,15 @@ public class TransactionController {
             return ResponseEntity.ok().body(canceled);
         }
         return ResponseEntity.notFound().build();
+    }
+
+    @GetMapping("/permit")
+    @PreAuthorize("hasRole('ADMIN')")
+    public ResponseEntity<Transaction> permit(@RequestBody TransactionDto transactionDto) {
+        log.info("Checking transaction: {}", transactionDto);
+        Transaction allowed = transactionService.permitted(
+                TransactionMapper.toEntity(transactionDto)
+        );
+        return ResponseEntity.ok().body(allowed);
     }
 }

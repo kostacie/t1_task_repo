@@ -4,33 +4,33 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.reactive.function.client.WebClient;
-import ru.t1.java.demo.model.dto.CheckRequest;
-import ru.t1.java.demo.model.dto.CheckResponse;
+import ru.t1.java.demo.model.dto.PermitRequest;
+import ru.t1.java.demo.model.dto.PermitResponse;
 
 import java.util.Optional;
 
 @Slf4j
-public class CheckWebClient extends BaseWebClient {
+public class PermitWebClient extends BaseWebClient {
 
-    @Value("${integration.resource-client}")
+    @Value("${integration.resource-transaction}")
     private String resource;
 
-    public CheckWebClient(WebClient webClient) {
+    public PermitWebClient(WebClient webClient) {
         super(webClient);
     }
 
-    public Optional<CheckResponse> check(Long id) {
+    public Optional<PermitResponse> permit(Long id) {
         log.debug("Старт запроса с id {}", id);
-        ResponseEntity<CheckResponse> post = null;
+        ResponseEntity<PermitResponse> post = null;
         try {
-            CheckRequest request = CheckRequest.builder()
-                    .clientId(id)
+            PermitRequest request = PermitRequest.builder()
+                    .transactionId(id)
                     .build();
 
             post = this.post(
                     uriBuilder -> uriBuilder.path(resource).build(),
                     request,
-                    CheckResponse.class);
+                    PermitResponse.class);
 
 
         } catch (Exception httpStatusException) {

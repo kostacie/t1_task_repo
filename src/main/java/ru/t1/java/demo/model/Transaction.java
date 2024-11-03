@@ -25,4 +25,9 @@ public class Transaction extends AbstractPersistable<Long> {
 
     @Column(name = "account_id")
     private Long accountId;
+
+    @Override
+    public void setId(Long id) {
+        super.setId(id);
+    }
 }

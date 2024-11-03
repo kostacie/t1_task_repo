@@ -1,20 +1,20 @@
 {
-  "id" : "cb502d8f-f536-4209-bf6e-d9fd379fbbd0",
-  "name" : "/api/client/check_blocked_false",
+  "id" : "db20d368-4313-47e6-ae3a-2eff8e879225",
+  "name" : "/api/client/check_blocked_true",
   "request" : {
     "url" : "/api/client/check",
     "method" : "POST"
   },
   "response" : {
     "status" : 200,
-    "body" : "{\n\"blocked\" : \"false\"\n}",
+    "body" : "{\n\"blocked\" : \"true\"\n}",
     "headers" : {
       "Content-Type" : "application/json"
     }
   },
-  "uuid" : "cb502d8f-f536-4209-bf6e-d9fd379fbbd0",
+  "uuid" : "db20d368-4313-47e6-ae3a-2eff8e879225",
   "persistent" : true,
-  "priority" : 1,
+  "priority" : 2,
   "scenarioName" : "client",
   "requiredScenarioState" : "Started",
   "metadata" : {
@@ -33,7 +33,7 @@
     "isMqCSV" : false,
     "isAsyncCsv" : [ false ]
   },
-  "insertionIndex" : 1,
+  "insertionIndex" : 2,
   "postServeActions" : [ {
     "name" : "asyncAction",
     "parameters" : {
