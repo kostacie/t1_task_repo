@@ -19,8 +19,10 @@ public interface ClientService {
     @Lock(LockModeType.PESSIMISTIC_WRITE)
     Account registerAccount(Account account);
 
+    @Lock(LockModeType.PESSIMISTIC_WRITE)
     List<ClientDto> parseJson();
 
+    @Lock(LockModeType.PESSIMISTIC_WRITE)
     void clearMiddleName(List<ClientDto> dtos);
 
     @Lock(LockModeType.PESSIMISTIC_WRITE)
